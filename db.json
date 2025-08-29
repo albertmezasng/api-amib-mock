@@ -1,0 +1,186 @@
+{
+  "institutions": [
+    {
+      "id": 1,
+      "name": "BBVA",
+      "institutionTypeId": 3
+    },
+    {
+      "id": 2,
+      "name": "UNAM",
+      "institutionTypeId": 2
+    }
+  ],
+  "businessLines": [
+    {
+      "id": 1,
+      "name": "BBVA BANCA MOVIL",
+      "rfc": "dael9301091a2",
+      "businessLineTypeId": 9,
+      "institutionId": 1
+    },
+    {
+      "id": 2,
+      "name": "UNAM RECTORIA",
+      "rfc": "dael9301091a2",
+      "businessLineTypeId": 6,
+      "institutionId": 2
+    },
+    {
+      "id": 3,
+      "name": "BBVA ADORES",
+      "rfc": "DAel9301091a2",
+      "businessLineTypeId": 9,
+      "institutionId": 1
+    }
+  ],
+  "brokers": [
+    {
+      "id": 1,
+      "name": "BBVA BANCA MOVIL",
+      "lastName": "Davila",
+      "mothersName": "Elias",
+      "email": "luisangeldaavila@gmail.com",
+      "rfc": "dael9301091a2",
+      "cellphone": 4961317211,
+      "puesto": "Gerente",
+      "userRoleId": 1,
+      "businessLineId": 1
+    },
+    {
+      "id": 2,
+      "name": "UNAM RECTORIA",
+      "lastName": "Santiago",
+      "mothersName": "Morales",
+      "email": "aniba@unam.coml",
+      "rfc": "dael9301091a2",
+      "cellphone": 4961317211,
+      "puesto": "Director",
+      "userRoleId": 1,
+      "businessLineId": 2
+    },
+    {
+      "id": 3,
+      "name": "BBVA ADORES",
+      "lastName": "Alberto",
+      "mothersName": "MEza",
+      "email": "mario@sngular..com",
+      "rfc": "DAel9301091a2",
+      "cellphone": 4961317211,
+      "puesto": "Gerente",
+      "userRoleId": 1,
+      "businessLineId": 3
+    }
+  ],
+  "validations": [
+    {
+      "id": 1,
+      "name": "Test 1",
+      "description": "Descripción de la validación 1"
+    },
+    {
+      "id": 2,
+      "name": "Test 2",
+      "description": "Descripción de la validación 2"
+    },
+    {
+      "id": 3,
+      "name": "Test 3",
+      "description": "Descripción de la validación 3"
+    },
+    {
+      "id": 4,
+      "name": "Test 4",
+      "description": "Descripción de la validación 4"
+    },
+    {
+      "id": 5,
+      "name": "Test 5",
+      "description": "Descripcion de Test 5"
+    }
+  ],
+  "typeExam": [
+    {
+      "id": 1,
+      "name": "Test 1",
+      "enable": true
+    },
+    {
+      "id": 2,
+      "name": "Test 2",
+      "enable": true
+    },
+    {
+      "id": 3,
+      "name": "Test 3",
+      "enable": true
+    },
+    {
+      "id": 4,
+      "name": "Test 4",
+      "enable": false
+    },
+    {
+      "id": 5,
+      "name": "Test 5",
+      "enable": false
+    },
+    {
+      "id": 6,
+      "name": "Test 6",
+      "enable": false
+    },
+    {
+      "id": 7,
+      "name": "Test 7",
+      "enable": false
+    },
+    {
+      "id": 8,
+      "name": "Invalid",
+      "enable": false
+    },
+    {
+      "id": 9,
+      "name": "Test",
+      "enable": true
+    }
+  ],
+  "closeDays": [
+    {
+      "id": 1,
+      "day": "2024-06-13",
+      "modalityId": 3,
+      "locationsId": 5,
+      "typeCalendar": 2
+    },
+    {
+      "id": 2,
+      "day": "2024-01-01",
+      "modalityId": 3,
+      "locationsId": 5,
+      "typeCalendar": 2
+    },
+    {
+      "id": 3,
+      "day": "2024-06-16",
+      "modalityId": 3,
+      "locationsId": 6,
+      "typeCalendar": 2
+    },
+    {
+      "id": 4,
+      "day": "2024-06-02",
+      "modalityId": 3,
+      "locationsId": 6,
+      "typeCalendar": 2
+    },
+    {
+      "id": 5,
+      "day": "2024-04-18",
+      "modalityId": 3,
+      "locationsId": 6,
+      "typeCalendar": 1
+    }
+  ]
+}

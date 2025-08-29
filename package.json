@@ -1,0 +1,27 @@
+{
+  "name": "rest-mock-amib",
+  "version": "1.0.0",
+  "description": "Rest API Amib",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "npx tsc",
+    "start": "node dist/index.js",
+    "dev": "nodemon src/index.js --ignore db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Albert Meza",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^5.0.0",
+    "json-server": "^1.0.0-beta.3",
+    "lowdb": "^7.0.1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "@types/express": "^4.17.21",
+    "nodemon": "^3.0.2"
+  }
+}
