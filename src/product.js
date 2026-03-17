@@ -1,5 +1,7 @@
 import { Router } from 'express';
 import {getConnection} from "./database.js";
+import { faker } from '@faker-js/faker';
+
 
 const router = Router();
 
@@ -64,6 +66,49 @@ router.put('/testType/:id', async (req, res) => {
     }
     
 });
+
+router.get('/notary', async (req, res) => {
+    /*
+    {
+    "page" = int,
+    "totalPage" = int,
+    "totalItems" = int,
+    "data" = [
+        {
+            "id": int
+            "name": string,
+            "enable": boolean,
+            "federativeEntityId": int,
+            "federativeEntityName": string,
+            "createDate": string,
+            "notaryNumber": int,
+            "updateDate": string
+        }
+    ]
+}
+    */
+    const rndInt = Math.floor(Math.random() * 10) + 1;
+    let details = [];
+    for (let i = 0; i <= rndInt; i++) {
+        details.push({
+            id: i,
+            name: faker.person.fullName(),
+            enable: true,
+            federativeEntityId: 1,
+            federativeEntityName: 'Ciudad de México',
+            createDate: "2026-03-06T09:00:00",
+            notaryNumber: i,
+            updateDate: "2026-03-06T09:00:00"
+        });
+    }
+    const data = {
+        page: 1,
+        totalPage: 10,
+        totalItems: 95,
+        data: details
+    };
+    res.json({ statusCode: 200, data: data});
+})
 
 
 export default router;
