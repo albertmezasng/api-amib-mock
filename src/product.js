@@ -110,5 +110,17 @@ router.get('/notary', async (req, res) => {
     res.json({ statusCode: 200, data: data});
 })
 
+router.post('/notary', async(req,res) => {
+    res.status(201).json({
+        statusCode: 201, data: res.body
+    })
+})
+
+router.patch('/notary/:id', async(req,res) => {
+    res.status(200).json({
+        statusCode: 200, data: res.body
+    })
+})
+
 
 export default router;
