@@ -108,4 +108,37 @@ router.get('/users/:userId/question-request-status', async(req, res) => {
     });
 })
 
+router.get('/question/:id', async(req, res) => {
+    const data = {
+        question: faker.lorem.words(10),
+    }
+    return res.json({
+        statusCode: 200,
+        data
+    })
+})
+
+router.get('/applicant-exam/:id/case/:caseId', async(req, res) => {
+    //{questionId: "222", sort: 1, isPending: true}
+    const rndInt = Math.floor(Math.random() * 4) + 1;
+    const instructions = faker.lorem.paragraphs(2);
+    
+    let questionlist = [];
+    for (let i = 0; i <= rndInt; i++) {
+        questionlist.push({
+            questionId: (222+i).toString(),
+            sort: i,
+            isPending: true
+        });
+    }
+    const caseData = {id: req.params.caseId,
+        instructions: instructions,
+        questionList: questionlist,
+        hasFile: false,};
+    return res.json({
+        statusCode: 200,
+        data: caseData,
+    })
+})
+
 export default router;
