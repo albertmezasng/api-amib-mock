@@ -182,5 +182,5007 @@
       "locationsId": 6,
       "typeCalendar": 1
     }
+  ],
+  "notaries": [
+    {
+      "id": 1,
+      "name": "Chris Langosh",
+      "enable": true,
+      "federativeEntityId": 32,
+      "federativeEntityName": "Zacatecas",
+      "createDate": "2025-05-17T07:15:28.752Z",
+      "notaryNumber": 883,
+      "updateDate": "2026-03-17T19:04:25.584Z"
+    },
+    {
+      "id": 2,
+      "name": "Dianne Feest",
+      "enable": true,
+      "federativeEntityId": 20,
+      "federativeEntityName": "Oaxaca",
+      "createDate": "2025-11-01T12:55:30.201Z",
+      "notaryNumber": 782,
+      "updateDate": "2026-03-18T13:35:04.183Z"
+    },
+    {
+      "id": 3,
+      "name": "Pearl Jerde",
+      "enable": false,
+      "federativeEntityId": 22,
+      "federativeEntityName": "Querétaro",
+      "createDate": "2026-01-14T00:56:58.477Z",
+      "notaryNumber": 678,
+      "updateDate": "2026-03-18T13:19:09.912Z"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Jean Daniel",
+      "enable": true,
+      "federativeEntityId": 12,
+      "federativeEntityName": "Guanajuato",
+      "createDate": "2025-06-28T14:08:20.107Z",
+      "notaryNumber": 475,
+      "updateDate": "2026-03-18T07:11:46.569Z"
+    },
+    {
+      "id": 5,
+      "name": "Mrs. Vicky Swift",
+      "enable": true,
+      "federativeEntityId": 3,
+      "federativeEntityName": "Baja California Sur",
+      "createDate": "2026-02-11T00:39:48.261Z",
+      "notaryNumber": 4,
+      "updateDate": "2026-03-18T08:43:04.870Z"
+    },
+    {
+      "id": 6,
+      "name": "Alan Rowe",
+      "enable": true,
+      "federativeEntityId": 29,
+      "federativeEntityName": "Tlaxcala",
+      "createDate": "2026-02-23T04:58:05.121Z",
+      "notaryNumber": 94,
+      "updateDate": "2026-03-18T01:36:45.693Z"
+    },
+    {
+      "id": 7,
+      "name": "Dominick Kunde",
+      "enable": false,
+      "federativeEntityId": 24,
+      "federativeEntityName": "Sinaloa",
+      "createDate": "2025-04-10T03:28:51.077Z",
+      "notaryNumber": 949,
+      "updateDate": "2026-03-17T23:01:16.377Z"
+    },
+    {
+      "id": 8,
+      "name": "Orville McKenzie-Stamm",
+      "enable": true,
+      "federativeEntityId": 3,
+      "federativeEntityName": "Baja California Sur",
+      "createDate": "2025-11-16T07:07:51.877Z",
+      "notaryNumber": 706,
+      "updateDate": "2026-03-18T15:22:28.336Z"
+    },
+    {
+      "id": 9,
+      "name": "Cheryl Ortiz",
+      "enable": true,
+      "federativeEntityId": 9,
+      "federativeEntityName": "Distrito Federal/CDMX",
+      "createDate": "2025-07-25T12:22:59.250Z",
+      "notaryNumber": 580,
+      "updateDate": "2026-03-17T20:48:21.724Z"
+    },
+    {
+      "id": 10,
+      "name": "Marion Armstrong",
+      "enable": true,
+      "federativeEntityId": 4,
+      "federativeEntityName": "Campeche",
+      "createDate": "2025-06-14T03:34:18.276Z",
+      "notaryNumber": 371,
+      "updateDate": "2026-03-18T02:04:45.685Z"
+    },
+    {
+      "id": 11,
+      "name": "Arturo Mitchell III",
+      "enable": true,
+      "federativeEntityId": 18,
+      "federativeEntityName": "Nayarit",
+      "createDate": "2025-05-26T04:22:18.604Z",
+      "notaryNumber": 144,
+      "updateDate": "2026-03-17T19:37:32.264Z"
+    },
+    {
+      "id": 12,
+      "name": "Larry Shields",
+      "enable": false,
+      "federativeEntityId": 4,
+      "federativeEntityName": "Campeche",
+      "createDate": "2025-09-25T03:03:11.557Z",
+      "notaryNumber": 776,
+      "updateDate": "2026-03-18T07:50:37.755Z"
+    },
+    {
+      "id": 13,
+      "name": "Theresa Schuppe",
+      "enable": true,
+      "federativeEntityId": 1,
+      "federativeEntityName": "Aguascalientes",
+      "createDate": "2025-10-27T15:09:32.172Z",
+      "notaryNumber": 404,
+      "updateDate": "2026-03-18T02:25:24.909Z"
+    },
+    {
+      "id": 14,
+      "name": "Gwen Prohaska",
+      "enable": true,
+      "federativeEntityId": 25,
+      "federativeEntityName": "San Luis Potosí",
+      "createDate": "2026-03-11T00:31:37.569Z",
+      "notaryNumber": 31,
+      "updateDate": "2026-03-18T02:52:40.807Z"
+    },
+    {
+      "id": 15,
+      "name": "Derek Jakubowski",
+      "enable": false,
+      "federativeEntityId": 22,
+      "federativeEntityName": "Querétaro",
+      "createDate": "2025-07-31T10:56:55.976Z",
+      "notaryNumber": 202,
+      "updateDate": "2026-03-18T16:22:40.491Z"
+    },
+    {
+      "id": 16,
+      "name": "Vicki Hartmann",
+      "enable": true,
+      "federativeEntityId": 15,
+      "federativeEntityName": "Estado de México",
+      "createDate": "2025-10-30T22:31:47.145Z",
+      "notaryNumber": 371,
+      "updateDate": "2026-03-18T12:17:08.482Z"
+    },
+    {
+      "id": 17,
+      "name": "Oliver Conroy II",
+      "enable": true,
+      "federativeEntityId": 21,
+      "federativeEntityName": "Puebla",
+      "createDate": "2025-05-10T20:37:07.806Z",
+      "notaryNumber": 955,
+      "updateDate": "2026-03-18T17:43:16.444Z"
+    },
+    {
+      "id": 18,
+      "name": "Debra Pfannerstill",
+      "enable": true,
+      "federativeEntityId": 12,
+      "federativeEntityName": "Guanajuato",
+      "createDate": "2026-03-07T23:04:35.324Z",
+      "notaryNumber": 750,
+      "updateDate": "2026-03-17T20:20:03.479Z"
+    },
+    {
+      "id": 19,
+      "name": "Raul Windler DVM",
+      "enable": false,
+      "federativeEntityId": 16,
+      "federativeEntityName": "Michoacan",
+      "createDate": "2025-06-17T08:07:39.271Z",
+      "notaryNumber": 852,
+      "updateDate": "2026-03-18T11:50:37.870Z"
+    },
+    {
+      "id": 20,
+      "name": "Valerie Paucek",
+      "enable": true,
+      "federativeEntityId": 23,
+      "federativeEntityName": "Quintana Roo",
+      "createDate": "2025-07-23T12:21:42.985Z",
+      "notaryNumber": 25,
+      "updateDate": "2026-03-18T03:36:20.170Z"
+    },
+    {
+      "id": 21,
+      "name": "Hector Reichel",
+      "enable": true,
+      "federativeEntityId": 12,
+      "federativeEntityName": "Guanajuato",
+      "createDate": "2025-11-04T07:08:35.410Z",
+      "notaryNumber": 145,
+      "updateDate": "2026-03-18T00:12:18.806Z"
+    },
+    {
+      "id": 22,
+      "name": "Ellis Cummerata",
+      "enable": true,
+      "federativeEntityId": 6,
+      "federativeEntityName": "Colima",
+      "createDate": "2026-01-24T18:44:30.735Z",
+      "notaryNumber": 274,
+      "updateDate": "2026-03-18T00:15:32.923Z"
+    },
+    {
+      "id": 23,
+      "name": "Brooke Yundt",
+      "enable": true,
+      "federativeEntityId": 3,
+      "federativeEntityName": "Baja California Sur",
+      "createDate": "2026-01-25T13:20:56.049Z",
+      "notaryNumber": 95,
+      "updateDate": "2026-03-18T03:48:56.857Z"
+    },
+    {
+      "id": 24,
+      "name": "Lorraine Gutkowski",
+      "enable": true,
+      "federativeEntityId": 6,
+      "federativeEntityName": "Colima",
+      "createDate": "2026-03-10T22:51:58.644Z",
+      "notaryNumber": 446,
+      "updateDate": "2026-03-18T10:35:01.610Z"
+    },
+    {
+      "id": 25,
+      "name": "Lorenzo Walter",
+      "enable": true,
+      "federativeEntityId": 1,
+      "federativeEntityName": "Aguascalientes",
+      "createDate": "2025-07-04T16:11:31.680Z",
+      "notaryNumber": 670,
+      "updateDate": "2026-03-18T00:53:23.179Z"
+    },
+    {
+      "id": 26,
+      "name": "Kenneth Kunde",
+      "enable": false,
+      "federativeEntityId": 5,
+      "federativeEntityName": "Coahuila de Zaragoza",
+      "createDate": "2025-08-17T04:47:35.597Z",
+      "notaryNumber": 714,
+      "updateDate": "2026-03-17T20:38:04.961Z"
+    },
+    {
+      "id": 27,
+      "name": "Sylvia Hilpert",
+      "enable": true,
+      "federativeEntityId": 27,
+      "federativeEntityName": "Tabasco",
+      "createDate": "2025-11-05T08:20:55.457Z",
+      "notaryNumber": 248,
+      "updateDate": "2026-03-18T02:26:36.306Z"
+    },
+    {
+      "id": 28,
+      "name": "Shirley Wintheiser",
+      "enable": true,
+      "federativeEntityId": 16,
+      "federativeEntityName": "Michoacan",
+      "createDate": "2025-12-26T14:16:34.586Z",
+      "notaryNumber": 183,
+      "updateDate": "2026-03-18T00:32:02.281Z"
+    },
+    {
+      "id": 29,
+      "name": "Irvin Hartmann",
+      "enable": true,
+      "federativeEntityId": 15,
+      "federativeEntityName": "Estado de México",
+      "createDate": "2025-04-12T04:14:05.697Z",
+      "notaryNumber": 343,
+      "updateDate": "2026-03-18T04:02:17.942Z"
+    },
+    {
+      "id": 30,
+      "name": "Ralph Wilkinson",
+      "enable": true,
+      "federativeEntityId": 3,
+      "federativeEntityName": "Baja California Sur",
+      "createDate": "2025-07-09T12:14:56.288Z",
+      "notaryNumber": 562,
+      "updateDate": "2026-03-18T04:59:32.815Z"
+    },
+    {
+      "id": 31,
+      "name": "Lawrence O'Reilly",
+      "enable": true,
+      "federativeEntityId": 14,
+      "federativeEntityName": "Jalisco",
+      "createDate": "2025-06-07T06:10:52.761Z",
+      "notaryNumber": 637,
+      "updateDate": "2026-03-18T17:29:10.352Z"
+    },
+    {
+      "id": 32,
+      "name": "Freddie Altenwerth",
+      "enable": true,
+      "federativeEntityId": 17,
+      "federativeEntityName": "Morelos",
+      "createDate": "2025-10-23T12:55:10.609Z",
+      "notaryNumber": 677,
+      "updateDate": "2026-03-18T13:49:49.350Z"
+    },
+    {
+      "id": 33,
+      "name": "Myra Borer",
+      "enable": true,
+      "federativeEntityId": 32,
+      "federativeEntityName": "Zacatecas",
+      "createDate": "2026-02-12T16:45:09.460Z",
+      "notaryNumber": 861,
+      "updateDate": "2026-03-18T09:40:42.382Z"
+    },
+    {
+      "id": 34,
+      "name": "Shannon Paucek",
+      "enable": true,
+      "federativeEntityId": 1,
+      "federativeEntityName": "Aguascalientes",
+      "createDate": "2025-10-29T06:14:32.217Z",
+      "notaryNumber": 411,
+      "updateDate": "2026-03-18T00:44:57.473Z"
+    },
+    {
+      "id": 35,
+      "name": "Julia Harvey",
+      "enable": true,
+      "federativeEntityId": 25,
+      "federativeEntityName": "San Luis Potosí",
+      "createDate": "2026-01-07T22:43:37.095Z",
+      "notaryNumber": 979,
+      "updateDate": "2026-03-18T06:10:50.246Z"
+    },
+    {
+      "id": 36,
+      "name": "Jana Koelpin",
+      "enable": true,
+      "federativeEntityId": 31,
+      "federativeEntityName": "Yucatán",
+      "createDate": "2025-08-06T22:06:08.398Z",
+      "notaryNumber": 9,
+      "updateDate": "2026-03-18T02:39:54.025Z"
+    },
+    {
+      "id": 37,
+      "name": "Essie Hessel",
+      "enable": false,
+      "federativeEntityId": 26,
+      "federativeEntityName": "Sonora",
+      "createDate": "2025-09-10T21:00:25.457Z",
+      "notaryNumber": 131,
+      "updateDate": "2026-03-17T21:44:23.658Z"
+    },
+    {
+      "id": 38,
+      "name": "Miss Irene Schowalter",
+      "enable": true,
+      "federativeEntityId": 24,
+      "federativeEntityName": "Sinaloa",
+      "createDate": "2025-06-14T04:37:48.985Z",
+      "notaryNumber": 673,
+      "updateDate": "2026-03-17T18:57:49.337Z"
+    },
+    {
+      "id": 39,
+      "name": "Rickey Kovacek",
+      "enable": true,
+      "federativeEntityId": 32,
+      "federativeEntityName": "Zacatecas",
+      "createDate": "2025-10-29T07:43:12.626Z",
+      "notaryNumber": 324,
+      "updateDate": "2026-03-18T16:51:44.037Z"
+    },
+    {
+      "id": 40,
+      "name": "Louis Schoen",
+      "enable": true,
+      "federativeEntityId": 2,
+      "federativeEntityName": "Baja California",
+      "createDate": "2025-08-23T21:16:02.646Z",
+      "notaryNumber": 776,
+      "updateDate": "2026-03-18T11:09:49.489Z"
+    },
+    {
+      "id": 41,
+      "name": "Patsy Waters",
+      "enable": true,
+      "federativeEntityId": 2,
+      "federativeEntityName": "Baja California",
+      "createDate": "2025-11-28T18:02:10.966Z",
+      "notaryNumber": 188,
+      "updateDate": "2026-03-17T22:14:39.452Z"
+    },
+    {
+      "id": 42,
+      "name": "Iris Grant",
+      "enable": true,
+      "federativeEntityId": 3,
+      "federativeEntityName": "Baja California Sur",
+      "createDate": "2025-04-26T16:38:17.085Z",
+      "notaryNumber": 389,
+      "updateDate": "2026-03-18T00:19:22.242Z"
+    },
+    {
+      "id": 43,
+      "name": "Dr. Freddie Pollich",
+      "enable": true,
+      "federativeEntityId": 9,
+      "federativeEntityName": "Distrito Federal/CDMX",
+      "createDate": "2025-05-18T04:10:06.146Z",
+      "notaryNumber": 101,
+      "updateDate": "2026-03-18T01:00:55.848Z"
+    },
+    {
+      "id": 44,
+      "name": "Lori Wilkinson",
+      "enable": true,
+      "federativeEntityId": 32,
+      "federativeEntityName": "Zacatecas",
+      "createDate": "2025-12-22T02:14:42.835Z",
+      "notaryNumber": 44,
+      "updateDate": "2026-03-18T07:44:05.762Z"
+    },
+    {
+      "id": 45,
+      "name": "Kim West DVM",
+      "enable": true,
+      "federativeEntityId": 9,
+      "federativeEntityName": "Distrito Federal/CDMX",
+      "createDate": "2026-03-16T22:02:34.243Z",
+      "notaryNumber": 871,
+      "updateDate": "2026-03-18T16:55:36.492Z"
+    },
+    {
+      "id": 46,
+      "name": "Tim Rice",
+      "enable": true,
+      "federativeEntityId": 6,
+      "federativeEntityName": "Colima",
+      "createDate": "2025-04-07T23:10:47.740Z",
+      "notaryNumber": 741,
+      "updateDate": "2026-03-17T19:59:44.371Z"
+    },
+    {
+      "id": 47,
+      "name": "Steven Lang",
+      "enable": true,
+      "federativeEntityId": 24,
+      "federativeEntityName": "Sinaloa",
+      "createDate": "2026-03-17T21:20:33.773Z",
+      "notaryNumber": 154,
+      "updateDate": "2026-03-18T03:27:28.212Z"
+    },
+    {
+      "id": 48,
+      "name": "Julian Larkin",
+      "enable": true,
+      "federativeEntityId": 1,
+      "federativeEntityName": "Aguascalientes",
+      "createDate": "2025-12-09T02:07:57.943Z",
+      "notaryNumber": 637,
+      "updateDate": "2026-03-17T22:18:24.348Z"
+    },
+    {
+      "id": 49,
+      "name": "Kendra Kreiger",
+      "enable": true,
+      "federativeEntityId": 25,
+      "federativeEntityName": "San Luis Potosí",
+      "createDate": "2025-04-14T04:53:49.616Z",
+      "notaryNumber": 919,
+      "updateDate": "2026-03-18T08:29:04.961Z"
+    },
+    {
+      "id": 50,
+      "name": "Nettie Koelpin",
+      "enable": false,
+      "federativeEntityId": 4,
+      "federativeEntityName": "Campeche",
+      "createDate": "2025-04-09T03:57:30.593Z",
+      "notaryNumber": 31,
+      "updateDate": "2026-03-18T14:27:40.480Z"
+    },
+    {
+      "id": 51,
+      "name": "Edith Flatley IV",
+      "enable": true,
+      "federativeEntityId": 10,
+      "federativeEntityName": "Durango",
+      "createDate": "2026-01-09T04:10:21.908Z",
+      "notaryNumber": 33,
+      "updateDate": "2026-03-18T09:57:41.796Z"
+    },
+    {
+      "id": 52,
+      "name": "Regina O'Hara III",
+      "enable": true,
+      "federativeEntityId": 23,
+      "federativeEntityName": "Quintana Roo",
+      "createDate": "2025-10-29T22:06:57.938Z",
+      "notaryNumber": 581,
+      "updateDate": "2026-03-18T04:55:00.535Z"
+    },
+    {
+      "id": 53,
+      "name": "Cathy Prohaska",
+      "enable": true,
+      "federativeEntityId": 1,
+      "federativeEntityName": "Aguascalientes",
+      "createDate": "2025-04-01T14:07:33.288Z",
+      "notaryNumber": 245,
+      "updateDate": "2026-03-18T17:01:26.162Z"
+    },
+    {
+      "id": 54,
+      "name": "Guadalupe Macejkovic",
+      "enable": true,
+      "federativeEntityId": 2,
+      "federativeEntityName": "Baja California",
+      "createDate": "2025-08-18T21:47:10.107Z",
+      "notaryNumber": 151,
+      "updateDate": "2026-03-18T11:39:58.938Z"
+    },
+    {
+      "id": 55,
+      "name": "Kent Kilback",
+      "enable": false,
+      "federativeEntityId": 22,
+      "federativeEntityName": "Querétaro",
+      "createDate": "2025-11-03T02:11:46.195Z",
+      "notaryNumber": 114,
+      "updateDate": "2026-03-18T12:19:40.844Z"
+    },
+    {
+      "id": 56,
+      "name": "Bill Jenkins",
+      "enable": true,
+      "federativeEntityId": 14,
+      "federativeEntityName": "Jalisco",
+      "createDate": "2025-09-06T13:01:59.045Z",
+      "notaryNumber": 940,
+      "updateDate": "2026-03-18T16:06:28.129Z"
+    },
+    {
+      "id": 57,
+      "name": "Mrs. Bertha Douglas",
+      "enable": false,
+      "federativeEntityId": 29,
+      "federativeEntityName": "Tlaxcala",
+      "createDate": "2026-01-12T13:56:20.959Z",
+      "notaryNumber": 458,
+      "updateDate": "2026-03-17T19:58:43.228Z"
+    },
+    {
+      "id": 58,
+      "name": "Danny Dare",
+      "enable": true,
+      "federativeEntityId": 10,
+      "federativeEntityName": "Durango",
+      "createDate": "2025-08-25T12:09:34.303Z",
+      "notaryNumber": 556,
+      "updateDate": "2026-03-18T10:05:38.069Z"
+    },
+    {
+      "id": 59,
+      "name": "Willard Blick",
+      "enable": true,
+      "federativeEntityId": 12,
+      "federativeEntityName": "Guanajuato",
+      "createDate": "2025-11-23T13:45:30.600Z",
+      "notaryNumber": 622,
+      "updateDate": "2026-03-18T02:54:54.640Z"
+    },
+    {
+      "id": 60,
+      "name": "Salvatore Reinger",
+      "enable": true,
+      "federativeEntityId": 30,
+      "federativeEntityName": "Veracruz",
+      "createDate": "2025-06-04T16:56:49.096Z",
+      "notaryNumber": 482,
+      "updateDate": "2026-03-18T03:33:53.681Z"
+    },
+    {
+      "id": 61,
+      "name": "Deborah McKenzie DVM",
+      "enable": true,
+      "federativeEntityId": 6,
+      "federativeEntityName": "Colima",
+      "createDate": "2025-09-15T07:14:11.963Z",
+      "notaryNumber": 319,
+      "updateDate": "2026-03-18T04:02:17.519Z"
+    },
+    {
+      "id": 62,
+      "name": "Cedric Gibson",
+      "enable": true,
+      "federativeEntityId": 23,
+      "federativeEntityName": "Quintana Roo",
+      "createDate": "2026-02-12T23:10:09.362Z",
+      "notaryNumber": 116,
+      "updateDate": "2026-03-18T17:48:36.105Z"
+    },
+    {
+      "id": 63,
+      "name": "Brenda Hilpert",
+      "enable": true,
+      "federativeEntityId": 26,
+      "federativeEntityName": "Sonora",
+      "createDate": "2025-06-29T00:25:29.682Z",
+      "notaryNumber": 777,
+      "updateDate": "2026-03-18T13:17:25.190Z"
+    },
+    {
+      "id": 64,
+      "name": "Claude McKenzie",
+      "enable": true,
+      "federativeEntityId": 21,
+      "federativeEntityName": "Puebla",
+      "createDate": "2025-05-15T00:46:51.410Z",
+      "notaryNumber": 273,
+      "updateDate": "2026-03-17T19:52:45.596Z"
+    },
+    {
+      "id": 65,
+      "name": "Dawn Rosenbaum",
+      "enable": true,
+      "federativeEntityId": 32,
+      "federativeEntityName": "Zacatecas",
+      "createDate": "2025-03-24T04:02:40.903Z",
+      "notaryNumber": 313,
+      "updateDate": "2026-03-17T20:52:01.324Z"
+    },
+    {
+      "id": 66,
+      "name": "Krystal Jenkins Sr.",
+      "enable": true,
+      "federativeEntityId": 9,
+      "federativeEntityName": "Distrito Federal/CDMX",
+      "createDate": "2025-11-23T23:44:43.711Z",
+      "notaryNumber": 75,
+      "updateDate": "2026-03-18T00:10:19.518Z"
+    },
+    {
+      "id": 67,
+      "name": "Mr. Alvin Wolff II",
+      "enable": true,
+      "federativeEntityId": 26,
+      "federativeEntityName": "Sonora",
+      "createDate": "2025-03-19T03:44:43.519Z",
+      "notaryNumber": 894,
+      "updateDate": "2026-03-18T03:50:53.617Z"
+    },
+    {
+      "id": 68,
+      "name": "Timothy Windler Sr.",
+      "enable": true,
+      "federativeEntityId": 28,
+      "federativeEntityName": "Tamaulipas",
+      "createDate": "2025-12-15T08:30:52.006Z",
+      "notaryNumber": 636,
+      "updateDate": "2026-03-18T00:14:17.573Z"
+    },
+    {
+      "id": 69,
+      "name": "Lora Hansen",
+      "enable": true,
+      "federativeEntityId": 22,
+      "federativeEntityName": "Querétaro",
+      "createDate": "2025-05-08T16:59:42.128Z",
+      "notaryNumber": 177,
+      "updateDate": "2026-03-17T19:06:42.809Z"
+    },
+    {
+      "id": 70,
+      "name": "Ginger Koepp",
+      "enable": true,
+      "federativeEntityId": 3,
+      "federativeEntityName": "Baja California Sur",
+      "createDate": "2025-04-12T23:48:01.076Z",
+      "notaryNumber": 436,
+      "updateDate": "2026-03-18T11:32:30.759Z"
+    },
+    {
+      "id": 71,
+      "name": "Ms. Marilyn Hansen",
+      "enable": false,
+      "federativeEntityId": 29,
+      "federativeEntityName": "Tlaxcala",
+      "createDate": "2025-09-06T11:37:52.351Z",
+      "notaryNumber": 617,
+      "updateDate": "2026-03-18T01:14:43.202Z"
+    },
+    {
+      "id": 72,
+      "name": "Elvira Raynor",
+      "enable": true,
+      "federativeEntityId": 30,
+      "federativeEntityName": "Veracruz",
+      "createDate": "2025-12-28T01:25:53.978Z",
+      "notaryNumber": 618,
+      "updateDate": "2026-03-18T15:36:10.257Z"
+    },
+    {
+      "id": 73,
+      "name": "Amos Russel DDS",
+      "enable": false,
+      "federativeEntityId": 9,
+      "federativeEntityName": "Distrito Federal/CDMX",
+      "createDate": "2025-11-11T14:17:14.462Z",
+      "notaryNumber": 99,
+      "updateDate": "2026-03-18T01:40:24.938Z"
+    },
+    {
+      "id": 74,
+      "name": "Shannon Goldner",
+      "enable": true,
+      "federativeEntityId": 9,
+      "federativeEntityName": "Distrito Federal/CDMX",
+      "createDate": "2025-10-16T07:20:24.275Z",
+      "notaryNumber": 825,
+      "updateDate": "2026-03-18T03:35:00.499Z"
+    },
+    {
+      "id": 75,
+      "name": "Kim Shields",
+      "enable": true,
+      "federativeEntityId": 23,
+      "federativeEntityName": "Quintana Roo",
+      "createDate": "2025-11-14T10:30:42.679Z",
+      "notaryNumber": 332,
+      "updateDate": "2026-03-17T21:48:22.958Z"
+    },
+    {
+      "id": 76,
+      "name": "Madeline Goyette",
+      "enable": true,
+      "federativeEntityId": 18,
+      "federativeEntityName": "Nayarit",
+      "createDate": "2025-03-18T19:07:57.177Z",
+      "notaryNumber": 448,
+      "updateDate": "2026-03-18T13:29:41.208Z"
+    },
+    {
+      "id": 77,
+      "name": "Lydia Casper",
+      "enable": true,
+      "federativeEntityId": 24,
+      "federativeEntityName": "Sinaloa",
+      "createDate": "2025-09-24T07:31:11.875Z",
+      "notaryNumber": 751,
+      "updateDate": "2026-03-18T03:32:57.713Z"
+    },
+    {
+      "id": 78,
+      "name": "Sylvia Stanton",
+      "enable": true,
+      "federativeEntityId": 17,
+      "federativeEntityName": "Morelos",
+      "createDate": "2026-02-11T03:07:27.509Z",
+      "notaryNumber": 892,
+      "updateDate": "2026-03-18T09:00:17.897Z"
+    },
+    {
+      "id": 79,
+      "name": "Luz Nicolas",
+      "enable": true,
+      "federativeEntityId": 24,
+      "federativeEntityName": "Sinaloa",
+      "createDate": "2025-07-20T09:45:48.222Z",
+      "notaryNumber": 220,
+      "updateDate": "2026-03-18T03:07:50.907Z"
+    },
+    {
+      "id": 80,
+      "name": "Sheila Fritsch",
+      "enable": true,
+      "federativeEntityId": 5,
+      "federativeEntityName": "Coahuila de Zaragoza",
+      "createDate": "2025-05-07T01:43:07.524Z",
+      "notaryNumber": 50,
+      "updateDate": "2026-03-18T10:12:30.704Z"
+    },
+    {
+      "id": 81,
+      "name": "Dexter Jacobi",
+      "enable": true,
+      "federativeEntityId": 19,
+      "federativeEntityName": "Nuevo León",
+      "createDate": "2026-01-15T07:30:54.930Z",
+      "notaryNumber": 341,
+      "updateDate": "2026-03-17T18:35:47.096Z"
+    },
+    {
+      "id": 82,
+      "name": "Eunice Gusikowski",
+      "enable": false,
+      "federativeEntityId": 23,
+      "federativeEntityName": "Quintana Roo",
+      "createDate": "2025-09-21T16:31:17.958Z",
+      "notaryNumber": 876,
+      "updateDate": "2026-03-18T02:40:02.741Z"
+    },
+    {
+      "id": 83,
+      "name": "Neal Howe",
+      "enable": true,
+      "federativeEntityId": 6,
+      "federativeEntityName": "Colima",
+      "createDate": "2025-12-02T15:57:26.574Z",
+      "notaryNumber": 551,
+      "updateDate": "2026-03-18T17:04:45.968Z"
+    },
+    {
+      "id": 84,
+      "name": "Ann Lehner",
+      "enable": false,
+      "federativeEntityId": 33,
+      "federativeEntityName": "EntidadMel edit",
+      "createDate": "2025-04-05T14:07:41.025Z",
+      "notaryNumber": 700,
+      "updateDate": "2026-03-18T10:35:12.628Z"
+    },
+    {
+      "id": 85,
+      "name": "Janie Murphy",
+      "enable": true,
+      "federativeEntityId": 21,
+      "federativeEntityName": "Puebla",
+      "createDate": "2026-01-26T01:11:12.654Z",
+      "notaryNumber": 596,
+      "updateDate": "2026-03-18T11:54:35.946Z"
+    },
+    {
+      "id": 86,
+      "name": "Angelica Orn",
+      "enable": true,
+      "federativeEntityId": 17,
+      "federativeEntityName": "Morelos",
+      "createDate": "2025-10-22T22:07:16.547Z",
+      "notaryNumber": 388,
+      "updateDate": "2026-03-17T21:58:35.408Z"
+    },
+    {
+      "id": 87,
+      "name": "Alfred Bode",
+      "enable": true,
+      "federativeEntityId": 33,
+      "federativeEntityName": "EntidadMel edit",
+      "createDate": "2025-09-30T02:09:30.953Z",
+      "notaryNumber": 772,
+      "updateDate": "2026-03-18T15:43:55.946Z"
+    },
+    {
+      "id": 88,
+      "name": "Jean Gerlach-Barrows",
+      "enable": true,
+      "federativeEntityId": 15,
+      "federativeEntityName": "Estado de México",
+      "createDate": "2026-01-10T00:41:30.052Z",
+      "notaryNumber": 249,
+      "updateDate": "2026-03-18T05:57:15.067Z"
+    },
+    {
+      "id": 89,
+      "name": "Shelly Lemke",
+      "enable": true,
+      "federativeEntityId": 27,
+      "federativeEntityName": "Tabasco",
+      "createDate": "2025-05-28T05:38:24.655Z",
+      "notaryNumber": 813,
+      "updateDate": "2026-03-18T02:53:43.464Z"
+    },
+    {
+      "id": 90,
+      "name": "Greg Kilback",
+      "enable": true,
+      "federativeEntityId": 14,
+      "federativeEntityName": "Jalisco",
+      "createDate": "2025-09-11T00:00:56.705Z",
+      "notaryNumber": 706,
+      "updateDate": "2026-03-17T18:45:59.939Z"
+    },
+    {
+      "id": 91,
+      "name": "Latoya Stiedemann",
+      "enable": true,
+      "federativeEntityId": 24,
+      "federativeEntityName": "Sinaloa",
+      "createDate": "2025-08-13T15:24:16.257Z",
+      "notaryNumber": 76,
+      "updateDate": "2026-03-17T19:30:06.676Z"
+    },
+    {
+      "id": 92,
+      "name": "Alfredo Spencer",
+      "enable": false,
+      "federativeEntityId": 9,
+      "federativeEntityName": "Distrito Federal/CDMX",
+      "createDate": "2025-11-15T05:50:52.036Z",
+      "notaryNumber": 165,
+      "updateDate": "2026-03-18T04:31:36.586Z"
+    },
+    {
+      "id": 93,
+      "name": "Ella Upton",
+      "enable": true,
+      "federativeEntityId": 6,
+      "federativeEntityName": "Colima",
+      "createDate": "2025-12-10T15:43:00.943Z",
+      "notaryNumber": 459,
+      "updateDate": "2026-03-18T08:27:57.701Z"
+    },
+    {
+      "id": 94,
+      "name": "Patsy Borer",
+      "enable": true,
+      "federativeEntityId": 17,
+      "federativeEntityName": "Morelos",
+      "createDate": "2025-10-11T16:52:39.885Z",
+      "notaryNumber": 841,
+      "updateDate": "2026-03-18T05:22:03.776Z"
+    },
+    {
+      "id": 95,
+      "name": "Doris Gulgowski",
+      "enable": true,
+      "federativeEntityId": 14,
+      "federativeEntityName": "Jalisco",
+      "createDate": "2025-09-03T10:07:52.424Z",
+      "notaryNumber": 506,
+      "updateDate": "2026-03-18T16:14:00.178Z"
+    },
+    {
+      "id": 96,
+      "name": "Kathy Glover",
+      "enable": true,
+      "federativeEntityId": 31,
+      "federativeEntityName": "Yucatán",
+      "createDate": "2025-10-22T17:58:25.244Z",
+      "notaryNumber": 454,
+      "updateDate": "2026-03-18T04:16:37.881Z"
+    },
+    {
+      "id": 97,
+      "name": "Lynda Bauch",
+      "enable": true,
+      "federativeEntityId": 22,
+      "federativeEntityName": "Querétaro",
+      "createDate": "2025-11-15T15:19:10.891Z",
+      "notaryNumber": 205,
+      "updateDate": "2026-03-18T07:13:43.073Z"
+    },
+    {
+      "id": 98,
+      "name": "Margaret White",
+      "enable": true,
+      "federativeEntityId": 21,
+      "federativeEntityName": "Puebla",
+      "createDate": "2025-04-14T03:01:13.585Z",
+      "notaryNumber": 180,
+      "updateDate": "2026-03-18T09:59:32.696Z"
+    },
+    {
+      "id": 99,
+      "name": "Gerald Kub",
+      "enable": true,
+      "federativeEntityId": 22,
+      "federativeEntityName": "Querétaro",
+      "createDate": "2026-01-16T20:20:35.872Z",
+      "notaryNumber": 288,
+      "updateDate": "2026-03-17T19:40:39.436Z"
+    },
+    {
+      "id": 100,
+      "name": "June Jakubowski",
+      "enable": false,
+      "federativeEntityId": 21,
+      "federativeEntityName": "Puebla",
+      "createDate": "2025-09-20T13:40:13.424Z",
+      "notaryNumber": 606,
+      "updateDate": "2026-03-18T03:43:06.679Z"
+    },
+    {
+      "id": 101,
+      "name": "Roger O'Connell",
+      "enable": true,
+      "federativeEntityId": 20,
+      "federativeEntityName": "Oaxaca",
+      "createDate": "2026-03-02T22:25:53.857Z",
+      "notaryNumber": 356,
+      "updateDate": "2026-03-18T02:14:48.271Z"
+    },
+    {
+      "id": 102,
+      "name": "Lester Prosacco",
+      "enable": true,
+      "federativeEntityId": 1,
+      "federativeEntityName": "Aguascalientes",
+      "createDate": "2025-04-06T18:32:37.420Z",
+      "notaryNumber": 125,
+      "updateDate": "2026-03-18T05:51:47.414Z"
+    },
+    {
+      "id": 103,
+      "name": "Myron Bartoletti",
+      "enable": false,
+      "federativeEntityId": 2,
+      "federativeEntityName": "Baja California",
+      "createDate": "2026-01-12T18:30:55.410Z",
+      "notaryNumber": 678,
+      "updateDate": "2026-03-18T10:21:33.086Z"
+    },
+    {
+      "id": 104,
+      "name": "Brenda Wiza",
+      "enable": true,
+      "federativeEntityId": 6,
+      "federativeEntityName": "Colima",
+      "createDate": "2025-07-14T19:51:59.502Z",
+      "notaryNumber": 38,
+      "updateDate": "2026-03-18T01:04:30.147Z"
+    },
+    {
+      "id": 105,
+      "name": "Joe Stroman",
+      "enable": true,
+      "federativeEntityId": 28,
+      "federativeEntityName": "Tamaulipas",
+      "createDate": "2025-10-18T22:05:48.124Z",
+      "notaryNumber": 6,
+      "updateDate": "2026-03-17T20:54:34.249Z"
+    },
+    {
+      "id": 106,
+      "name": "Ed Hessel",
+      "enable": false,
+      "federativeEntityId": 6,
+      "federativeEntityName": "Colima",
+      "createDate": "2025-03-31T02:50:27.807Z",
+      "notaryNumber": 370,
+      "updateDate": "2026-03-18T14:02:52.747Z"
+    },
+    {
+      "id": 107,
+      "name": "Julian Goodwin",
+      "enable": true,
+      "federativeEntityId": 13,
+      "federativeEntityName": "Hidalgo",
+      "createDate": "2025-04-09T00:17:39.480Z",
+      "notaryNumber": 4,
+      "updateDate": "2026-03-18T11:20:35.165Z"
+    },
+    {
+      "id": 108,
+      "name": "Lonnie Treutel",
+      "enable": false,
+      "federativeEntityId": 3,
+      "federativeEntityName": "Baja California Sur",
+      "createDate": "2026-02-15T07:10:59.235Z",
+      "notaryNumber": 215,
+      "updateDate": "2026-03-18T16:54:46.136Z"
+    },
+    {
+      "id": 109,
+      "name": "Irma Murray Sr.",
+      "enable": true,
+      "federativeEntityId": 32,
+      "federativeEntityName": "Zacatecas",
+      "createDate": "2025-09-08T12:39:51.476Z",
+      "notaryNumber": 579,
+      "updateDate": "2026-03-17T21:28:43.159Z"
+    },
+    {
+      "id": 110,
+      "name": "Erin Lockman",
+      "enable": true,
+      "federativeEntityId": 30,
+      "federativeEntityName": "Veracruz",
+      "createDate": "2025-05-01T17:25:03.713Z",
+      "notaryNumber": 261,
+      "updateDate": "2026-03-18T08:02:29.006Z"
+    },
+    {
+      "id": 111,
+      "name": "Laura Sanford DVM",
+      "enable": true,
+      "federativeEntityId": 23,
+      "federativeEntityName": "Quintana Roo",
+      "createDate": "2025-06-24T13:54:28.708Z",
+      "notaryNumber": 112,
+      "updateDate": "2026-03-18T02:58:48.112Z"
+    },
+    {
+      "id": 112,
+      "name": "Christine Klein",
+      "enable": true,
+      "federativeEntityId": 28,
+      "federativeEntityName": "Tamaulipas",
+      "createDate": "2025-07-07T07:36:29.668Z",
+      "notaryNumber": 729,
+      "updateDate": "2026-03-18T10:31:03.411Z"
+    },
+    {
+      "id": 113,
+      "name": "Inez Jakubowski",
+      "enable": true,
+      "federativeEntityId": 30,
+      "federativeEntityName": "Veracruz",
+      "createDate": "2025-06-07T19:53:03.443Z",
+      "notaryNumber": 350,
+      "updateDate": "2026-03-18T02:59:39.298Z"
+    },
+    {
+      "id": 114,
+      "name": "Kent Moore",
+      "enable": false,
+      "federativeEntityId": 20,
+      "federativeEntityName": "Oaxaca",
+      "createDate": "2025-10-09T07:41:20.677Z",
+      "notaryNumber": 847,
+      "updateDate": "2026-03-18T17:16:49.608Z"
+    },
+    {
+      "id": 115,
+      "name": "Wesley Pagac",
+      "enable": true,
+      "federativeEntityId": 22,
+      "federativeEntityName": "Querétaro",
+      "createDate": "2026-03-13T12:59:23.792Z",
+      "notaryNumber": 26,
+      "updateDate": "2026-03-18T09:03:38.022Z"
+    },
+    {
+      "id": 116,
+      "name": "Veronica Dibbert",
+      "enable": true,
+      "federativeEntityId": 2,
+      "federativeEntityName": "Baja California",
+      "createDate": "2026-03-12T20:45:39.704Z",
+      "notaryNumber": 41,
+      "updateDate": "2026-03-18T11:17:14.871Z"
+    },
+    {
+      "id": 117,
+      "name": "Ms. Irene Cummerata",
+      "enable": true,
+      "federativeEntityId": 19,
+      "federativeEntityName": "Nuevo León",
+      "createDate": "2025-06-15T19:39:58.697Z",
+      "notaryNumber": 655,
+      "updateDate": "2026-03-18T02:53:48.459Z"
+    },
+    {
+      "id": 118,
+      "name": "Miss Beverly Gottlieb V",
+      "enable": false,
+      "federativeEntityId": 15,
+      "federativeEntityName": "Estado de México",
+      "createDate": "2025-08-06T17:18:11.144Z",
+      "notaryNumber": 450,
+      "updateDate": "2026-03-18T11:28:59.436Z"
+    },
+    {
+      "id": 119,
+      "name": "Rudy Greenfelder",
+      "enable": false,
+      "federativeEntityId": 33,
+      "federativeEntityName": "EntidadMel edit",
+      "createDate": "2026-03-04T19:45:33.085Z",
+      "notaryNumber": 115,
+      "updateDate": "2026-03-17T18:29:47.546Z"
+    },
+    {
+      "id": 120,
+      "name": "Vivian King",
+      "enable": true,
+      "federativeEntityId": 27,
+      "federativeEntityName": "Tabasco",
+      "createDate": "2025-06-21T02:54:17.526Z",
+      "notaryNumber": 535,
+      "updateDate": "2026-03-17T23:23:09.861Z"
+    },
+    {
+      "id": 121,
+      "name": "Ms. Charlotte Runolfsson Sr.",
+      "enable": false,
+      "federativeEntityId": 28,
+      "federativeEntityName": "Tamaulipas",
+      "createDate": "2025-03-31T22:08:08.896Z",
+      "notaryNumber": 433,
+      "updateDate": "2026-03-17T20:29:54.972Z"
+    },
+    {
+      "id": 122,
+      "name": "Leonard Cole",
+      "enable": true,
+      "federativeEntityId": 5,
+      "federativeEntityName": "Coahuila de Zaragoza",
+      "createDate": "2025-10-05T22:07:27.547Z",
+      "notaryNumber": 897,
+      "updateDate": "2026-03-18T15:59:18.965Z"
+    },
+    {
+      "id": 123,
+      "name": "Israel Dooley",
+      "enable": false,
+      "federativeEntityId": 8,
+      "federativeEntityName": "Chihuahua",
+      "createDate": "2026-03-13T23:49:30.045Z",
+      "notaryNumber": 450,
+      "updateDate": "2026-03-17T23:23:40.050Z"
+    },
+    {
+      "id": 124,
+      "name": "Thelma Walker",
+      "enable": true,
+      "federativeEntityId": 31,
+      "federativeEntityName": "Yucatán",
+      "createDate": "2025-10-06T04:18:36.251Z",
+      "notaryNumber": 665,
+      "updateDate": "2026-03-18T10:40:22.265Z"
+    },
+    {
+      "id": 125,
+      "name": "Fernando Greenfelder",
+      "enable": false,
+      "federativeEntityId": 29,
+      "federativeEntityName": "Tlaxcala",
+      "createDate": "2025-07-11T01:32:11.689Z",
+      "notaryNumber": 20,
+      "updateDate": "2026-03-18T11:43:35.863Z"
+    },
+    {
+      "id": 126,
+      "name": "Olivia Weber",
+      "enable": true,
+      "federativeEntityId": 24,
+      "federativeEntityName": "Sinaloa",
+      "createDate": "2025-03-20T14:07:13.404Z",
+      "notaryNumber": 787,
+      "updateDate": "2026-03-18T04:05:52.818Z"
+    },
+    {
+      "id": 127,
+      "name": "Kelley Bartoletti",
+      "enable": true,
+      "federativeEntityId": 6,
+      "federativeEntityName": "Colima",
+      "createDate": "2025-08-28T05:48:31.315Z",
+      "notaryNumber": 696,
+      "updateDate": "2026-03-18T01:43:05.313Z"
+    },
+    {
+      "id": 128,
+      "name": "Jeffrey Dare",
+      "enable": true,
+      "federativeEntityId": 21,
+      "federativeEntityName": "Puebla",
+      "createDate": "2026-02-05T04:53:22.611Z",
+      "notaryNumber": 484,
+      "updateDate": "2026-03-18T10:15:09.950Z"
+    },
+    {
+      "id": 129,
+      "name": "Alexander Ruecker",
+      "enable": true,
+      "federativeEntityId": 2,
+      "federativeEntityName": "Baja California",
+      "createDate": "2025-08-04T22:21:27.408Z",
+      "notaryNumber": 708,
+      "updateDate": "2026-03-18T12:26:25.254Z"
+    },
+    {
+      "id": 130,
+      "name": "Marshall Hermann",
+      "enable": true,
+      "federativeEntityId": 8,
+      "federativeEntityName": "Chihuahua",
+      "createDate": "2025-10-23T23:25:27.664Z",
+      "notaryNumber": 123,
+      "updateDate": "2026-03-18T08:20:49.432Z"
+    },
+    {
+      "id": 131,
+      "name": "Chris Cummings",
+      "enable": true,
+      "federativeEntityId": 1,
+      "federativeEntityName": "Aguascalientes",
+      "createDate": "2026-01-03T10:07:46.136Z",
+      "notaryNumber": 611,
+      "updateDate": "2026-03-18T05:11:35.403Z"
+    },
+    {
+      "id": 132,
+      "name": "James Hansen",
+      "enable": true,
+      "federativeEntityId": 4,
+      "federativeEntityName": "Campeche",
+      "createDate": "2026-03-14T16:50:32.637Z",
+      "notaryNumber": 540,
+      "updateDate": "2026-03-18T06:20:58.285Z"
+    },
+    {
+      "id": 133,
+      "name": "Wilfred Rosenbaum",
+      "enable": true,
+      "federativeEntityId": 13,
+      "federativeEntityName": "Hidalgo",
+      "createDate": "2026-03-05T07:30:27.992Z",
+      "notaryNumber": 253,
+      "updateDate": "2026-03-18T11:59:17.946Z"
+    },
+    {
+      "id": 134,
+      "name": "Tara Feil",
+      "enable": true,
+      "federativeEntityId": 15,
+      "federativeEntityName": "Estado de México",
+      "createDate": "2025-03-29T05:30:47.147Z",
+      "notaryNumber": 27,
+      "updateDate": "2026-03-18T07:15:48.462Z"
+    },
+    {
+      "id": 135,
+      "name": "Clifford Lehner",
+      "enable": true,
+      "federativeEntityId": 14,
+      "federativeEntityName": "Jalisco",
+      "createDate": "2026-01-31T18:30:48.859Z",
+      "notaryNumber": 409,
+      "updateDate": "2026-03-17T20:47:18.453Z"
+    },
+    {
+      "id": 136,
+      "name": "Devin Koepp",
+      "enable": true,
+      "federativeEntityId": 18,
+      "federativeEntityName": "Nayarit",
+      "createDate": "2025-10-30T03:47:11.049Z",
+      "notaryNumber": 945,
+      "updateDate": "2026-03-18T12:51:22.938Z"
+    },
+    {
+      "id": 137,
+      "name": "Sherry Bernhard-Ebert",
+      "enable": true,
+      "federativeEntityId": 1,
+      "federativeEntityName": "Aguascalientes",
+      "createDate": "2025-06-11T06:04:50.354Z",
+      "notaryNumber": 799,
+      "updateDate": "2026-03-18T05:30:28.659Z"
+    },
+    {
+      "id": 138,
+      "name": "Shawn Sauer DVM",
+      "enable": true,
+      "federativeEntityId": 12,
+      "federativeEntityName": "Guanajuato",
+      "createDate": "2025-07-17T23:36:20.416Z",
+      "notaryNumber": 379,
+      "updateDate": "2026-03-18T17:10:59.971Z"
+    },
+    {
+      "id": 139,
+      "name": "Samantha Batz III",
+      "enable": true,
+      "federativeEntityId": 31,
+      "federativeEntityName": "Yucatán",
+      "createDate": "2025-08-24T10:00:06.757Z",
+      "notaryNumber": 395,
+      "updateDate": "2026-03-18T07:05:35.479Z"
+    },
+    {
+      "id": 140,
+      "name": "Melvin Satterfield",
+      "enable": true,
+      "federativeEntityId": 25,
+      "federativeEntityName": "San Luis Potosí",
+      "createDate": "2025-09-14T00:05:34.158Z",
+      "notaryNumber": 323,
+      "updateDate": "2026-03-18T02:49:06.341Z"
+    },
+    {
+      "id": 141,
+      "name": "Damon Heaney",
+      "enable": true,
+      "federativeEntityId": 1,
+      "federativeEntityName": "Aguascalientes",
+      "createDate": "2025-05-31T23:12:09.953Z",
+      "notaryNumber": 719,
+      "updateDate": "2026-03-18T05:57:08.969Z"
+    },
+    {
+      "id": 142,
+      "name": "Alfred Wisoky",
+      "enable": true,
+      "federativeEntityId": 3,
+      "federativeEntityName": "Baja California Sur",
+      "createDate": "2026-02-01T08:17:09.430Z",
+      "notaryNumber": 895,
+      "updateDate": "2026-03-18T04:41:46.736Z"
+    },
+    {
+      "id": 143,
+      "name": "Sam Johnson",
+      "enable": false,
+      "federativeEntityId": 4,
+      "federativeEntityName": "Campeche",
+      "createDate": "2025-10-01T14:39:59.108Z",
+      "notaryNumber": 827,
+      "updateDate": "2026-03-18T04:04:44.547Z"
+    },
+    {
+      "id": 144,
+      "name": "Dr. Gabriel Gerhold",
+      "enable": true,
+      "federativeEntityId": 5,
+      "federativeEntityName": "Coahuila de Zaragoza",
+      "createDate": "2025-08-29T05:57:49.716Z",
+      "notaryNumber": 773,
+      "updateDate": "2026-03-18T01:51:50.735Z"
+    },
+    {
+      "id": 145,
+      "name": "Sylvester Okuneva",
+      "enable": false,
+      "federativeEntityId": 32,
+      "federativeEntityName": "Zacatecas",
+      "createDate": "2025-11-28T10:32:01.064Z",
+      "notaryNumber": 50,
+      "updateDate": "2026-03-18T10:58:28.557Z"
+    },
+    {
+      "id": 146,
+      "name": "Olivia Robel",
+      "enable": true,
+      "federativeEntityId": 3,
+      "federativeEntityName": "Baja California Sur",
+      "createDate": "2025-09-08T14:28:48.950Z",
+      "notaryNumber": 797,
+      "updateDate": "2026-03-18T04:30:42.741Z"
+    },
+    {
+      "id": 147,
+      "name": "Sheila Lockman",
+      "enable": true,
+      "federativeEntityId": 31,
+      "federativeEntityName": "Yucatán",
+      "createDate": "2025-03-24T04:13:31.044Z",
+      "notaryNumber": 381,
+      "updateDate": "2026-03-18T16:52:04.375Z"
+    },
+    {
+      "id": 148,
+      "name": "Tim Dach",
+      "enable": true,
+      "federativeEntityId": 20,
+      "federativeEntityName": "Oaxaca",
+      "createDate": "2026-03-10T16:41:55.041Z",
+      "notaryNumber": 622,
+      "updateDate": "2026-03-18T13:19:37.369Z"
+    },
+    {
+      "id": 149,
+      "name": "Lula Bogan",
+      "enable": true,
+      "federativeEntityId": 4,
+      "federativeEntityName": "Campeche",
+      "createDate": "2026-01-19T05:20:07.627Z",
+      "notaryNumber": 368,
+      "updateDate": "2026-03-18T05:09:16.975Z"
+    },
+    {
+      "id": 150,
+      "name": "Johnnie Cormier",
+      "enable": true,
+      "federativeEntityId": 14,
+      "federativeEntityName": "Jalisco",
+      "createDate": "2025-09-17T03:28:37.587Z",
+      "notaryNumber": 354,
+      "updateDate": "2026-03-17T21:44:33.235Z"
+    },
+    {
+      "id": 151,
+      "name": "Gregory Smitham",
+      "enable": false,
+      "federativeEntityId": 31,
+      "federativeEntityName": "Yucatán",
+      "createDate": "2025-03-27T20:12:29.113Z",
+      "notaryNumber": 815,
+      "updateDate": "2026-03-18T01:52:30.447Z"
+    },
+    {
+      "id": 152,
+      "name": "Dr. Alberto Gorczany",
+      "enable": true,
+      "federativeEntityId": 11,
+      "federativeEntityName": "Guerrero",
+      "createDate": "2025-08-08T02:22:52.968Z",
+      "notaryNumber": 170,
+      "updateDate": "2026-03-18T08:57:20.725Z"
+    },
+    {
+      "id": 153,
+      "name": "Katie Legros",
+      "enable": true,
+      "federativeEntityId": 4,
+      "federativeEntityName": "Campeche",
+      "createDate": "2025-08-30T21:23:00.803Z",
+      "notaryNumber": 634,
+      "updateDate": "2026-03-17T21:19:49.732Z"
+    },
+    {
+      "id": 154,
+      "name": "Phil Cronin",
+      "enable": true,
+      "federativeEntityId": 22,
+      "federativeEntityName": "Querétaro",
+      "createDate": "2026-03-05T19:18:34.561Z",
+      "notaryNumber": 807,
+      "updateDate": "2026-03-18T03:52:55.989Z"
+    },
+    {
+      "id": 155,
+      "name": "Marcella Huels",
+      "enable": true,
+      "federativeEntityId": 32,
+      "federativeEntityName": "Zacatecas",
+      "createDate": "2025-03-21T11:38:37.408Z",
+      "notaryNumber": 884,
+      "updateDate": "2026-03-18T00:44:56.621Z"
+    },
+    {
+      "id": 156,
+      "name": "Roland Konopelski",
+      "enable": true,
+      "federativeEntityId": 6,
+      "federativeEntityName": "Colima",
+      "createDate": "2026-02-16T09:54:08.312Z",
+      "notaryNumber": 87,
+      "updateDate": "2026-03-18T14:08:23.243Z"
+    },
+    {
+      "id": 157,
+      "name": "Antonia Schulist",
+      "enable": true,
+      "federativeEntityId": 11,
+      "federativeEntityName": "Guerrero",
+      "createDate": "2025-10-01T03:22:32.333Z",
+      "notaryNumber": 21,
+      "updateDate": "2026-03-18T00:32:10.357Z"
+    },
+    {
+      "id": 158,
+      "name": "Dr. Clay Lind",
+      "enable": true,
+      "federativeEntityId": 27,
+      "federativeEntityName": "Tabasco",
+      "createDate": "2025-12-30T07:07:29.980Z",
+      "notaryNumber": 804,
+      "updateDate": "2026-03-18T17:19:17.757Z"
+    },
+    {
+      "id": 159,
+      "name": "Marlene Kreiger III",
+      "enable": true,
+      "federativeEntityId": 8,
+      "federativeEntityName": "Chihuahua",
+      "createDate": "2025-11-18T02:29:10.748Z",
+      "notaryNumber": 5,
+      "updateDate": "2026-03-17T19:47:57.377Z"
+    },
+    {
+      "id": 160,
+      "name": "Adrienne Rodriguez",
+      "enable": true,
+      "federativeEntityId": 17,
+      "federativeEntityName": "Morelos",
+      "createDate": "2025-12-26T02:40:47.913Z",
+      "notaryNumber": 836,
+      "updateDate": "2026-03-18T00:58:37.272Z"
+    },
+    {
+      "id": 161,
+      "name": "Kristen O'Connell",
+      "enable": true,
+      "federativeEntityId": 4,
+      "federativeEntityName": "Campeche",
+      "createDate": "2025-06-25T00:50:42.691Z",
+      "notaryNumber": 942,
+      "updateDate": "2026-03-18T15:51:18.834Z"
+    },
+    {
+      "id": 162,
+      "name": "Colin Crona",
+      "enable": true,
+      "federativeEntityId": 21,
+      "federativeEntityName": "Puebla",
+      "createDate": "2025-04-04T08:02:39.172Z",
+      "notaryNumber": 682,
+      "updateDate": "2026-03-18T03:34:00.934Z"
+    },
+    {
+      "id": 163,
+      "name": "Roosevelt Kutch",
+      "enable": true,
+      "federativeEntityId": 33,
+      "federativeEntityName": "EntidadMel edit",
+      "createDate": "2025-11-18T05:03:51.045Z",
+      "notaryNumber": 690,
+      "updateDate": "2026-03-17T18:34:20.667Z"
+    },
+    {
+      "id": 164,
+      "name": "Pat Pfeffer",
+      "enable": true,
+      "federativeEntityId": 9,
+      "federativeEntityName": "Distrito Federal/CDMX",
+      "createDate": "2025-05-01T05:08:27.566Z",
+      "notaryNumber": 775,
+      "updateDate": "2026-03-18T00:07:51.656Z"
+    },
+    {
+      "id": 165,
+      "name": "Michele Mertz",
+      "enable": false,
+      "federativeEntityId": 18,
+      "federativeEntityName": "Nayarit",
+      "createDate": "2025-11-16T13:49:40.979Z",
+      "notaryNumber": 927,
+      "updateDate": "2026-03-17T20:35:01.516Z"
+    },
+    {
+      "id": 166,
+      "name": "Kelly Dibbert",
+      "enable": true,
+      "federativeEntityId": 7,
+      "federativeEntityName": "Chiapas",
+      "createDate": "2025-11-06T16:07:31.290Z",
+      "notaryNumber": 521,
+      "updateDate": "2026-03-18T03:23:16.295Z"
+    },
+    {
+      "id": 167,
+      "name": "Santos Jaskolski",
+      "enable": false,
+      "federativeEntityId": 8,
+      "federativeEntityName": "Chihuahua",
+      "createDate": "2025-12-22T22:27:10.134Z",
+      "notaryNumber": 995,
+      "updateDate": "2026-03-17T18:23:41.852Z"
+    },
+    {
+      "id": 168,
+      "name": "Alicia Corkery MD",
+      "enable": true,
+      "federativeEntityId": 28,
+      "federativeEntityName": "Tamaulipas",
+      "createDate": "2025-07-25T07:07:35.601Z",
+      "notaryNumber": 3,
+      "updateDate": "2026-03-18T09:44:22.213Z"
+    },
+    {
+      "id": 169,
+      "name": "Kurt Rogahn DDS",
+      "enable": true,
+      "federativeEntityId": 32,
+      "federativeEntityName": "Zacatecas",
+      "createDate": "2025-09-19T07:40:22.321Z",
+      "notaryNumber": 731,
+      "updateDate": "2026-03-17T22:46:39.536Z"
+    },
+    {
+      "id": 170,
+      "name": "Walter Beier IV",
+      "enable": true,
+      "federativeEntityId": 28,
+      "federativeEntityName": "Tamaulipas",
+      "createDate": "2026-02-08T20:05:59.626Z",
+      "notaryNumber": 925,
+      "updateDate": "2026-03-18T05:43:05.432Z"
+    },
+    {
+      "id": 171,
+      "name": "Darlene Carter",
+      "enable": true,
+      "federativeEntityId": 31,
+      "federativeEntityName": "Yucatán",
+      "createDate": "2025-09-19T11:36:05.249Z",
+      "notaryNumber": 987,
+      "updateDate": "2026-03-18T14:10:35.644Z"
+    },
+    {
+      "id": 172,
+      "name": "Martha Dibbert",
+      "enable": true,
+      "federativeEntityId": 5,
+      "federativeEntityName": "Coahuila de Zaragoza",
+      "createDate": "2025-04-21T20:10:15.482Z",
+      "notaryNumber": 77,
+      "updateDate": "2026-03-18T17:31:36.279Z"
+    },
+    {
+      "id": 173,
+      "name": "Bruce Harvey Sr.",
+      "enable": true,
+      "federativeEntityId": 3,
+      "federativeEntityName": "Baja California Sur",
+      "createDate": "2025-10-09T19:23:06.433Z",
+      "notaryNumber": 487,
+      "updateDate": "2026-03-18T00:12:10.443Z"
+    },
+    {
+      "id": 174,
+      "name": "Jordan Langworth",
+      "enable": true,
+      "federativeEntityId": 21,
+      "federativeEntityName": "Puebla",
+      "createDate": "2026-02-19T16:38:58.065Z",
+      "notaryNumber": 12,
+      "updateDate": "2026-03-18T12:35:08.464Z"
+    },
+    {
+      "id": 175,
+      "name": "Janie Hermann-Stokes",
+      "enable": true,
+      "federativeEntityId": 11,
+      "federativeEntityName": "Guerrero",
+      "createDate": "2025-04-10T16:10:19.241Z",
+      "notaryNumber": 145,
+      "updateDate": "2026-03-17T18:58:46.837Z"
+    },
+    {
+      "id": 176,
+      "name": "Meghan Bernhard",
+      "enable": true,
+      "federativeEntityId": 18,
+      "federativeEntityName": "Nayarit",
+      "createDate": "2025-09-13T20:20:05.046Z",
+      "notaryNumber": 621,
+      "updateDate": "2026-03-18T13:23:31.320Z"
+    },
+    {
+      "id": 177,
+      "name": "Trevor Haley-Gibson",
+      "enable": false,
+      "federativeEntityId": 12,
+      "federativeEntityName": "Guanajuato",
+      "createDate": "2025-11-03T19:19:54.003Z",
+      "notaryNumber": 261,
+      "updateDate": "2026-03-18T02:54:22.812Z"
+    },
+    {
+      "id": 178,
+      "name": "Belinda Luettgen",
+      "enable": true,
+      "federativeEntityId": 11,
+      "federativeEntityName": "Guerrero",
+      "createDate": "2025-12-04T01:49:49.540Z",
+      "notaryNumber": 269,
+      "updateDate": "2026-03-18T13:58:52.932Z"
+    },
+    {
+      "id": 179,
+      "name": "Willard Hammes",
+      "enable": true,
+      "federativeEntityId": 16,
+      "federativeEntityName": "Michoacan",
+      "createDate": "2025-12-12T02:15:59.967Z",
+      "notaryNumber": 191,
+      "updateDate": "2026-03-17T20:00:44.853Z"
+    },
+    {
+      "id": 180,
+      "name": "Leo Predovic",
+      "enable": true,
+      "federativeEntityId": 24,
+      "federativeEntityName": "Sinaloa",
+      "createDate": "2025-10-20T21:15:27.907Z",
+      "notaryNumber": 393,
+      "updateDate": "2026-03-17T17:57:24.986Z"
+    },
+    {
+      "id": 181,
+      "name": "Frances Hane-Bergnaum",
+      "enable": true,
+      "federativeEntityId": 32,
+      "federativeEntityName": "Zacatecas",
+      "createDate": "2025-05-29T10:08:02.285Z",
+      "notaryNumber": 177,
+      "updateDate": "2026-03-18T10:01:41.831Z"
+    },
+    {
+      "id": 182,
+      "name": "Tim Farrell",
+      "enable": true,
+      "federativeEntityId": 11,
+      "federativeEntityName": "Guerrero",
+      "createDate": "2025-10-15T01:06:39.845Z",
+      "notaryNumber": 656,
+      "updateDate": "2026-03-18T15:46:20.973Z"
+    },
+    {
+      "id": 183,
+      "name": "Jonathon Wilkinson",
+      "enable": false,
+      "federativeEntityId": 31,
+      "federativeEntityName": "Yucatán",
+      "createDate": "2025-08-24T11:55:06.373Z",
+      "notaryNumber": 818,
+      "updateDate": "2026-03-18T01:41:20.410Z"
+    },
+    {
+      "id": 184,
+      "name": "Amelia Raynor",
+      "enable": true,
+      "federativeEntityId": 30,
+      "federativeEntityName": "Veracruz",
+      "createDate": "2025-11-17T13:11:35.236Z",
+      "notaryNumber": 784,
+      "updateDate": "2026-03-18T15:50:47.251Z"
+    },
+    {
+      "id": 185,
+      "name": "Ervin Weber",
+      "enable": true,
+      "federativeEntityId": 19,
+      "federativeEntityName": "Nuevo León",
+      "createDate": "2025-03-25T21:19:10.567Z",
+      "notaryNumber": 278,
+      "updateDate": "2026-03-18T08:42:57.213Z"
+    },
+    {
+      "id": 186,
+      "name": "Doug Harber",
+      "enable": false,
+      "federativeEntityId": 15,
+      "federativeEntityName": "Estado de México",
+      "createDate": "2025-11-09T11:55:44.476Z",
+      "notaryNumber": 692,
+      "updateDate": "2026-03-18T17:22:02.307Z"
+    },
+    {
+      "id": 187,
+      "name": "Lynn Torphy",
+      "enable": true,
+      "federativeEntityId": 29,
+      "federativeEntityName": "Tlaxcala",
+      "createDate": "2025-07-12T23:09:17.026Z",
+      "notaryNumber": 145,
+      "updateDate": "2026-03-17T21:52:14.356Z"
+    },
+    {
+      "id": 188,
+      "name": "Archie Paucek",
+      "enable": false,
+      "federativeEntityId": 2,
+      "federativeEntityName": "Baja California",
+      "createDate": "2025-12-17T07:15:17.750Z",
+      "notaryNumber": 297,
+      "updateDate": "2026-03-18T02:52:41.046Z"
+    },
+    {
+      "id": 189,
+      "name": "Dr. Rosie Welch",
+      "enable": true,
+      "federativeEntityId": 17,
+      "federativeEntityName": "Morelos",
+      "createDate": "2025-11-08T17:01:22.208Z",
+      "notaryNumber": 432,
+      "updateDate": "2026-03-18T14:37:29.527Z"
+    },
+    {
+      "id": 190,
+      "name": "Lana Watsica",
+      "enable": true,
+      "federativeEntityId": 6,
+      "federativeEntityName": "Colima",
+      "createDate": "2026-03-13T21:28:42.850Z",
+      "notaryNumber": 449,
+      "updateDate": "2026-03-18T11:51:07.489Z"
+    },
+    {
+      "id": 191,
+      "name": "Kenny Gleichner",
+      "enable": true,
+      "federativeEntityId": 4,
+      "federativeEntityName": "Campeche",
+      "createDate": "2025-05-04T22:08:56.535Z",
+      "notaryNumber": 72,
+      "updateDate": "2026-03-18T00:45:09.164Z"
+    },
+    {
+      "id": 192,
+      "name": "Charlotte Glover",
+      "enable": true,
+      "federativeEntityId": 22,
+      "federativeEntityName": "Querétaro",
+      "createDate": "2025-08-11T03:31:58.848Z",
+      "notaryNumber": 973,
+      "updateDate": "2026-03-18T16:32:47.854Z"
+    },
+    {
+      "id": 193,
+      "name": "Hubert Shields",
+      "enable": true,
+      "federativeEntityId": 24,
+      "federativeEntityName": "Sinaloa",
+      "createDate": "2025-06-29T13:27:07.134Z",
+      "notaryNumber": 551,
+      "updateDate": "2026-03-18T09:58:04.003Z"
+    },
+    {
+      "id": 194,
+      "name": "Eva Hoeger",
+      "enable": true,
+      "federativeEntityId": 30,
+      "federativeEntityName": "Veracruz",
+      "createDate": "2025-11-26T02:30:19.860Z",
+      "notaryNumber": 439,
+      "updateDate": "2026-03-18T08:45:29.103Z"
+    },
+    {
+      "id": 195,
+      "name": "Wilfred Kreiger",
+      "enable": true,
+      "federativeEntityId": 10,
+      "federativeEntityName": "Durango",
+      "createDate": "2025-11-30T00:46:44.517Z",
+      "notaryNumber": 164,
+      "updateDate": "2026-03-18T07:34:16.086Z"
+    },
+    {
+      "id": 196,
+      "name": "Belinda Crist",
+      "enable": true,
+      "federativeEntityId": 23,
+      "federativeEntityName": "Quintana Roo",
+      "createDate": "2026-03-11T11:40:37.566Z",
+      "notaryNumber": 580,
+      "updateDate": "2026-03-18T15:05:28.676Z"
+    },
+    {
+      "id": 197,
+      "name": "Peter McGlynn",
+      "enable": true,
+      "federativeEntityId": 5,
+      "federativeEntityName": "Coahuila de Zaragoza",
+      "createDate": "2025-12-10T13:20:02.743Z",
+      "notaryNumber": 996,
+      "updateDate": "2026-03-18T16:35:37.029Z"
+    },
+    {
+      "id": 198,
+      "name": "Verna Cummings",
+      "enable": false,
+      "federativeEntityId": 17,
+      "federativeEntityName": "Morelos",
+      "createDate": "2026-02-20T07:21:13.276Z",
+      "notaryNumber": 199,
+      "updateDate": "2026-03-18T03:25:40.871Z"
+    },
+    {
+      "id": 199,
+      "name": "Danielle Wiza V",
+      "enable": true,
+      "federativeEntityId": 15,
+      "federativeEntityName": "Estado de México",
+      "createDate": "2025-11-29T05:37:43.765Z",
+      "notaryNumber": 346,
+      "updateDate": "2026-03-18T03:30:30.833Z"
+    },
+    {
+      "id": 200,
+      "name": "Carlton Kerluke",
+      "enable": false,
+      "federativeEntityId": 12,
+      "federativeEntityName": "Guanajuato",
+      "createDate": "2025-06-11T11:02:07.090Z",
+      "notaryNumber": 336,
+      "updateDate": "2026-03-18T10:12:01.481Z"
+    },
+    {
+      "id": 201,
+      "name": "Agnes Pollich",
+      "enable": true,
+      "federativeEntityId": 11,
+      "federativeEntityName": "Guerrero",
+      "createDate": "2025-04-19T05:22:19.922Z",
+      "notaryNumber": 518,
+      "updateDate": "2026-03-18T00:08:58.139Z"
+    },
+    {
+      "id": 202,
+      "name": "Neil Prosacco",
+      "enable": true,
+      "federativeEntityId": 26,
+      "federativeEntityName": "Sonora",
+      "createDate": "2026-01-01T12:47:06.068Z",
+      "notaryNumber": 665,
+      "updateDate": "2026-03-18T02:10:27.873Z"
+    },
+    {
+      "id": 203,
+      "name": "Spencer Conroy",
+      "enable": true,
+      "federativeEntityId": 30,
+      "federativeEntityName": "Veracruz",
+      "createDate": "2025-09-22T21:50:52.448Z",
+      "notaryNumber": 283,
+      "updateDate": "2026-03-17T18:46:59.530Z"
+    },
+    {
+      "id": 204,
+      "name": "Andy DuBuque",
+      "enable": false,
+      "federativeEntityId": 12,
+      "federativeEntityName": "Guanajuato",
+      "createDate": "2025-09-04T02:02:58.794Z",
+      "notaryNumber": 61,
+      "updateDate": "2026-03-18T08:04:19.375Z"
+    },
+    {
+      "id": 205,
+      "name": "Armando Ernser",
+      "enable": true,
+      "federativeEntityId": 29,
+      "federativeEntityName": "Tlaxcala",
+      "createDate": "2025-04-15T09:18:59.874Z",
+      "notaryNumber": 171,
+      "updateDate": "2026-03-18T16:59:34.685Z"
+    },
+    {
+      "id": 206,
+      "name": "Luis Lubowitz",
+      "enable": true,
+      "federativeEntityId": 1,
+      "federativeEntityName": "Aguascalientes",
+      "createDate": "2025-06-30T17:55:24.162Z",
+      "notaryNumber": 824,
+      "updateDate": "2026-03-18T10:24:45.751Z"
+    },
+    {
+      "id": 207,
+      "name": "Cody Wilkinson",
+      "enable": true,
+      "federativeEntityId": 30,
+      "federativeEntityName": "Veracruz",
+      "createDate": "2026-02-09T01:25:27.286Z",
+      "notaryNumber": 537,
+      "updateDate": "2026-03-18T08:18:45.402Z"
+    },
+    {
+      "id": 208,
+      "name": "Tim Bogan V",
+      "enable": true,
+      "federativeEntityId": 20,
+      "federativeEntityName": "Oaxaca",
+      "createDate": "2025-06-16T14:10:47.063Z",
+      "notaryNumber": 912,
+      "updateDate": "2026-03-18T10:05:42.017Z"
+    },
+    {
+      "id": 209,
+      "name": "Mrs. Joanna Zieme",
+      "enable": true,
+      "federativeEntityId": 31,
+      "federativeEntityName": "Yucatán",
+      "createDate": "2026-01-31T10:18:12.980Z",
+      "notaryNumber": 939,
+      "updateDate": "2026-03-18T11:56:56.776Z"
+    },
+    {
+      "id": 210,
+      "name": "Iris O'Kon",
+      "enable": false,
+      "federativeEntityId": 18,
+      "federativeEntityName": "Nayarit",
+      "createDate": "2025-08-19T09:36:32.761Z",
+      "notaryNumber": 382,
+      "updateDate": "2026-03-18T01:34:54.307Z"
+    },
+    {
+      "id": 211,
+      "name": "Alvin VonRueden",
+      "enable": true,
+      "federativeEntityId": 30,
+      "federativeEntityName": "Veracruz",
+      "createDate": "2026-02-06T11:48:11.041Z",
+      "notaryNumber": 983,
+      "updateDate": "2026-03-17T23:29:59.617Z"
+    },
+    {
+      "id": 212,
+      "name": "Mary Wolf",
+      "enable": true,
+      "federativeEntityId": 10,
+      "federativeEntityName": "Durango",
+      "createDate": "2025-07-11T01:42:34.911Z",
+      "notaryNumber": 882,
+      "updateDate": "2026-03-18T13:23:50.148Z"
+    },
+    {
+      "id": 213,
+      "name": "Dr. Susan Hyatt",
+      "enable": true,
+      "federativeEntityId": 26,
+      "federativeEntityName": "Sonora",
+      "createDate": "2026-01-28T11:37:06.692Z",
+      "notaryNumber": 905,
+      "updateDate": "2026-03-18T04:23:18.338Z"
+    },
+    {
+      "id": 214,
+      "name": "Alison White",
+      "enable": true,
+      "federativeEntityId": 9,
+      "federativeEntityName": "Distrito Federal/CDMX",
+      "createDate": "2025-12-02T06:26:29.585Z",
+      "notaryNumber": 102,
+      "updateDate": "2026-03-18T03:23:05.445Z"
+    },
+    {
+      "id": 215,
+      "name": "Martin Monahan DDS",
+      "enable": true,
+      "federativeEntityId": 7,
+      "federativeEntityName": "Chiapas",
+      "createDate": "2025-07-05T17:51:34.617Z",
+      "notaryNumber": 878,
+      "updateDate": "2026-03-18T12:48:49.219Z"
+    },
+    {
+      "id": 216,
+      "name": "Jon Jacobi",
+      "enable": true,
+      "federativeEntityId": 21,
+      "federativeEntityName": "Puebla",
+      "createDate": "2025-07-27T00:05:50.532Z",
+      "notaryNumber": 965,
+      "updateDate": "2026-03-18T00:01:30.392Z"
+    },
+    {
+      "id": 217,
+      "name": "Ricardo Gorczany V",
+      "enable": false,
+      "federativeEntityId": 22,
+      "federativeEntityName": "Querétaro",
+      "createDate": "2025-05-09T23:53:44.294Z",
+      "notaryNumber": 542,
+      "updateDate": "2026-03-18T08:16:33.213Z"
+    },
+    {
+      "id": 218,
+      "name": "Flora Weber",
+      "enable": true,
+      "federativeEntityId": 24,
+      "federativeEntityName": "Sinaloa",
+      "createDate": "2025-12-20T01:18:43.755Z",
+      "notaryNumber": 827,
+      "updateDate": "2026-03-17T21:41:30.963Z"
+    },
+    {
+      "id": 219,
+      "name": "Ella Bashirian",
+      "enable": true,
+      "federativeEntityId": 6,
+      "federativeEntityName": "Colima",
+      "createDate": "2026-01-07T06:23:39.692Z",
+      "notaryNumber": 837,
+      "updateDate": "2026-03-18T10:27:26.540Z"
+    },
+    {
+      "id": 220,
+      "name": "Dr. Clara Bechtelar",
+      "enable": false,
+      "federativeEntityId": 4,
+      "federativeEntityName": "Campeche",
+      "createDate": "2025-10-28T22:32:25.168Z",
+      "notaryNumber": 616,
+      "updateDate": "2026-03-17T20:44:32.997Z"
+    },
+    {
+      "id": 221,
+      "name": "Myron Haley",
+      "enable": true,
+      "federativeEntityId": 4,
+      "federativeEntityName": "Campeche",
+      "createDate": "2025-07-31T11:37:55.938Z",
+      "notaryNumber": 766,
+      "updateDate": "2026-03-18T00:39:37.598Z"
+    },
+    {
+      "id": 222,
+      "name": "Mindy Grady",
+      "enable": true,
+      "federativeEntityId": 12,
+      "federativeEntityName": "Guanajuato",
+      "createDate": "2025-03-23T20:14:56.655Z",
+      "notaryNumber": 740,
+      "updateDate": "2026-03-18T00:59:23.706Z"
+    },
+    {
+      "id": 223,
+      "name": "Randy Gleichner PhD",
+      "enable": true,
+      "federativeEntityId": 13,
+      "federativeEntityName": "Hidalgo",
+      "createDate": "2026-01-17T04:46:00.350Z",
+      "notaryNumber": 338,
+      "updateDate": "2026-03-18T17:21:50.536Z"
+    },
+    {
+      "id": 224,
+      "name": "Joey Reichel",
+      "enable": true,
+      "federativeEntityId": 27,
+      "federativeEntityName": "Tabasco",
+      "createDate": "2026-03-07T02:29:32.470Z",
+      "notaryNumber": 749,
+      "updateDate": "2026-03-17T20:48:29.971Z"
+    },
+    {
+      "id": 225,
+      "name": "Richard Sawayn",
+      "enable": true,
+      "federativeEntityId": 4,
+      "federativeEntityName": "Campeche",
+      "createDate": "2025-05-26T04:48:34.978Z",
+      "notaryNumber": 335,
+      "updateDate": "2026-03-18T00:57:42.598Z"
+    },
+    {
+      "id": 226,
+      "name": "Dr. Abel Gorczany DVM",
+      "enable": true,
+      "federativeEntityId": 7,
+      "federativeEntityName": "Chiapas",
+      "createDate": "2026-03-01T21:36:43.953Z",
+      "notaryNumber": 560,
+      "updateDate": "2026-03-18T01:14:45.330Z"
+    },
+    {
+      "id": 227,
+      "name": "Dr. Shelly Parker-Skiles",
+      "enable": false,
+      "federativeEntityId": 22,
+      "federativeEntityName": "Querétaro",
+      "createDate": "2025-04-12T15:12:10.533Z",
+      "notaryNumber": 146,
+      "updateDate": "2026-03-18T07:31:10.279Z"
+    },
+    {
+      "id": 228,
+      "name": "Ronnie Mills",
+      "enable": true,
+      "federativeEntityId": 10,
+      "federativeEntityName": "Durango",
+      "createDate": "2025-06-18T14:52:27.134Z",
+      "notaryNumber": 205,
+      "updateDate": "2026-03-18T07:08:00.792Z"
+    },
+    {
+      "id": 229,
+      "name": "Mrs. Tamara Brekke",
+      "enable": true,
+      "federativeEntityId": 6,
+      "federativeEntityName": "Colima",
+      "createDate": "2025-08-08T22:24:00.082Z",
+      "notaryNumber": 765,
+      "updateDate": "2026-03-18T15:03:54.939Z"
+    },
+    {
+      "id": 230,
+      "name": "Jorge Bogan",
+      "enable": false,
+      "federativeEntityId": 33,
+      "federativeEntityName": "EntidadMel edit",
+      "createDate": "2025-11-11T03:35:32.138Z",
+      "notaryNumber": 422,
+      "updateDate": "2026-03-17T21:03:18.810Z"
+    },
+    {
+      "id": 231,
+      "name": "Irene Stokes",
+      "enable": true,
+      "federativeEntityId": 22,
+      "federativeEntityName": "Querétaro",
+      "createDate": "2025-10-31T20:56:08.191Z",
+      "notaryNumber": 571,
+      "updateDate": "2026-03-17T21:55:05.610Z"
+    },
+    {
+      "id": 232,
+      "name": "Nettie Considine",
+      "enable": true,
+      "federativeEntityId": 33,
+      "federativeEntityName": "EntidadMel edit",
+      "createDate": "2025-05-16T00:55:44.569Z",
+      "notaryNumber": 353,
+      "updateDate": "2026-03-18T04:10:35.228Z"
+    },
+    {
+      "id": 233,
+      "name": "Francisco Torp",
+      "enable": true,
+      "federativeEntityId": 19,
+      "federativeEntityName": "Nuevo León",
+      "createDate": "2025-12-22T13:03:34.013Z",
+      "notaryNumber": 657,
+      "updateDate": "2026-03-18T08:13:48.256Z"
+    },
+    {
+      "id": 234,
+      "name": "Mr. Omar Erdman-Tillman",
+      "enable": false,
+      "federativeEntityId": 23,
+      "federativeEntityName": "Quintana Roo",
+      "createDate": "2025-12-30T20:20:43.841Z",
+      "notaryNumber": 425,
+      "updateDate": "2026-03-18T15:40:41.713Z"
+    },
+    {
+      "id": 235,
+      "name": "Mrs. Susie Kerluke III",
+      "enable": true,
+      "federativeEntityId": 21,
+      "federativeEntityName": "Puebla",
+      "createDate": "2026-01-03T15:00:59.159Z",
+      "notaryNumber": 846,
+      "updateDate": "2026-03-18T11:45:45.417Z"
+    },
+    {
+      "id": 236,
+      "name": "Rafael Mayer",
+      "enable": true,
+      "federativeEntityId": 27,
+      "federativeEntityName": "Tabasco",
+      "createDate": "2025-07-25T00:09:26.824Z",
+      "notaryNumber": 767,
+      "updateDate": "2026-03-17T22:28:30.706Z"
+    },
+    {
+      "id": 237,
+      "name": "Tommie Cremin III",
+      "enable": true,
+      "federativeEntityId": 32,
+      "federativeEntityName": "Zacatecas",
+      "createDate": "2025-04-03T20:27:21.891Z",
+      "notaryNumber": 465,
+      "updateDate": "2026-03-18T07:55:27.214Z"
+    },
+    {
+      "id": 238,
+      "name": "Martin Marquardt",
+      "enable": false,
+      "federativeEntityId": 20,
+      "federativeEntityName": "Oaxaca",
+      "createDate": "2026-01-20T12:37:18.583Z",
+      "notaryNumber": 223,
+      "updateDate": "2026-03-17T23:35:22.404Z"
+    },
+    {
+      "id": 239,
+      "name": "Chris Blanda",
+      "enable": true,
+      "federativeEntityId": 24,
+      "federativeEntityName": "Sinaloa",
+      "createDate": "2025-10-07T15:15:00.816Z",
+      "notaryNumber": 319,
+      "updateDate": "2026-03-18T12:58:00.971Z"
+    },
+    {
+      "id": 240,
+      "name": "Andrew Sauer",
+      "enable": true,
+      "federativeEntityId": 20,
+      "federativeEntityName": "Oaxaca",
+      "createDate": "2025-09-06T19:29:51.265Z",
+      "notaryNumber": 980,
+      "updateDate": "2026-03-18T00:02:33.323Z"
+    },
+    {
+      "id": 241,
+      "name": "Jasmine Dietrich",
+      "enable": true,
+      "federativeEntityId": 21,
+      "federativeEntityName": "Puebla",
+      "createDate": "2025-11-01T09:39:30.177Z",
+      "notaryNumber": 720,
+      "updateDate": "2026-03-18T07:00:36.248Z"
+    },
+    {
+      "id": 242,
+      "name": "Miss Teresa Botsford",
+      "enable": true,
+      "federativeEntityId": 6,
+      "federativeEntityName": "Colima",
+      "createDate": "2026-02-12T08:37:33.525Z",
+      "notaryNumber": 883,
+      "updateDate": "2026-03-18T01:38:50.694Z"
+    },
+    {
+      "id": 243,
+      "name": "Al Wilderman",
+      "enable": false,
+      "federativeEntityId": 32,
+      "federativeEntityName": "Zacatecas",
+      "createDate": "2026-01-09T07:48:16.557Z",
+      "notaryNumber": 575,
+      "updateDate": "2026-03-18T12:03:04.468Z"
+    },
+    {
+      "id": 244,
+      "name": "Dave Shields",
+      "enable": true,
+      "federativeEntityId": 8,
+      "federativeEntityName": "Chihuahua",
+      "createDate": "2025-08-01T08:30:13.837Z",
+      "notaryNumber": 734,
+      "updateDate": "2026-03-18T01:25:43.339Z"
+    },
+    {
+      "id": 245,
+      "name": "Ana Roberts",
+      "enable": true,
+      "federativeEntityId": 22,
+      "federativeEntityName": "Querétaro",
+      "createDate": "2026-02-07T02:03:38.001Z",
+      "notaryNumber": 623,
+      "updateDate": "2026-03-18T08:48:17.406Z"
+    },
+    {
+      "id": 246,
+      "name": "John Kilback",
+      "enable": false,
+      "federativeEntityId": 28,
+      "federativeEntityName": "Tamaulipas",
+      "createDate": "2025-04-28T22:26:47.111Z",
+      "notaryNumber": 509,
+      "updateDate": "2026-03-18T11:29:24.682Z"
+    },
+    {
+      "id": 247,
+      "name": "Sandy Nicolas-Tillman",
+      "enable": true,
+      "federativeEntityId": 4,
+      "federativeEntityName": "Campeche",
+      "createDate": "2025-10-24T00:48:23.630Z",
+      "notaryNumber": 21,
+      "updateDate": "2026-03-17T20:41:35.555Z"
+    },
+    {
+      "id": 248,
+      "name": "Andrew Jaskolski",
+      "enable": true,
+      "federativeEntityId": 23,
+      "federativeEntityName": "Quintana Roo",
+      "createDate": "2025-06-26T10:33:39.700Z",
+      "notaryNumber": 549,
+      "updateDate": "2026-03-18T05:53:45.122Z"
+    },
+    {
+      "id": 249,
+      "name": "Maurice Gorczany",
+      "enable": false,
+      "federativeEntityId": 5,
+      "federativeEntityName": "Coahuila de Zaragoza",
+      "createDate": "2026-03-02T20:37:05.035Z",
+      "notaryNumber": 660,
+      "updateDate": "2026-03-18T14:55:01.177Z"
+    },
+    {
+      "id": 250,
+      "name": "Ronnie Franey",
+      "enable": true,
+      "federativeEntityId": 15,
+      "federativeEntityName": "Estado de México",
+      "createDate": "2026-03-01T21:27:55.709Z",
+      "notaryNumber": 185,
+      "updateDate": "2026-03-17T20:58:07.452Z"
+    },
+    {
+      "id": 251,
+      "name": "Theresa Kemmer",
+      "enable": true,
+      "federativeEntityId": 9,
+      "federativeEntityName": "Distrito Federal/CDMX",
+      "createDate": "2025-09-17T17:57:00.940Z",
+      "notaryNumber": 251,
+      "updateDate": "2026-03-17T22:07:21.348Z"
+    },
+    {
+      "id": 252,
+      "name": "Isabel Johns",
+      "enable": true,
+      "federativeEntityId": 18,
+      "federativeEntityName": "Nayarit",
+      "createDate": "2025-12-03T13:45:37.647Z",
+      "notaryNumber": 797,
+      "updateDate": "2026-03-18T02:39:45.201Z"
+    },
+    {
+      "id": 253,
+      "name": "Mr. David Batz-Schinner",
+      "enable": true,
+      "federativeEntityId": 22,
+      "federativeEntityName": "Querétaro",
+      "createDate": "2026-02-15T19:07:44.057Z",
+      "notaryNumber": 188,
+      "updateDate": "2026-03-18T12:22:18.190Z"
+    },
+    {
+      "id": 254,
+      "name": "Cornelius Runolfsdottir",
+      "enable": true,
+      "federativeEntityId": 33,
+      "federativeEntityName": "EntidadMel edit",
+      "createDate": "2026-03-07T21:33:19.307Z",
+      "notaryNumber": 657,
+      "updateDate": "2026-03-18T11:09:37.285Z"
+    },
+    {
+      "id": 255,
+      "name": "Gloria Will",
+      "enable": true,
+      "federativeEntityId": 33,
+      "federativeEntityName": "EntidadMel edit",
+      "createDate": "2025-08-01T13:04:33.588Z",
+      "notaryNumber": 345,
+      "updateDate": "2026-03-18T16:05:05.231Z"
+    },
+    {
+      "id": 256,
+      "name": "Max Funk",
+      "enable": true,
+      "federativeEntityId": 10,
+      "federativeEntityName": "Durango",
+      "createDate": "2026-01-06T10:07:50.792Z",
+      "notaryNumber": 115,
+      "updateDate": "2026-03-17T20:20:57.971Z"
+    },
+    {
+      "id": 257,
+      "name": "Wayne Swaniawski",
+      "enable": true,
+      "federativeEntityId": 12,
+      "federativeEntityName": "Guanajuato",
+      "createDate": "2025-10-03T17:55:52.654Z",
+      "notaryNumber": 3,
+      "updateDate": "2026-03-18T15:29:35.400Z"
+    },
+    {
+      "id": 258,
+      "name": "Ms. Rosalie Wisozk",
+      "enable": false,
+      "federativeEntityId": 13,
+      "federativeEntityName": "Hidalgo",
+      "createDate": "2025-07-27T11:46:38.921Z",
+      "notaryNumber": 67,
+      "updateDate": "2026-03-18T14:56:51.603Z"
+    },
+    {
+      "id": 259,
+      "name": "Dr. Keith West",
+      "enable": true,
+      "federativeEntityId": 26,
+      "federativeEntityName": "Sonora",
+      "createDate": "2025-08-09T03:14:40.210Z",
+      "notaryNumber": 468,
+      "updateDate": "2026-03-18T06:00:09.440Z"
+    },
+    {
+      "id": 260,
+      "name": "Harry Boehm",
+      "enable": false,
+      "federativeEntityId": 23,
+      "federativeEntityName": "Quintana Roo",
+      "createDate": "2025-04-17T08:33:18.901Z",
+      "notaryNumber": 684,
+      "updateDate": "2026-03-17T18:20:57.930Z"
+    },
+    {
+      "id": 261,
+      "name": "Mr. Ryan Cronin",
+      "enable": false,
+      "federativeEntityId": 14,
+      "federativeEntityName": "Jalisco",
+      "createDate": "2025-07-03T14:30:16.592Z",
+      "notaryNumber": 418,
+      "updateDate": "2026-03-17T23:28:39.865Z"
+    },
+    {
+      "id": 262,
+      "name": "Manuel Schuster",
+      "enable": true,
+      "federativeEntityId": 29,
+      "federativeEntityName": "Tlaxcala",
+      "createDate": "2025-07-05T02:51:45.208Z",
+      "notaryNumber": 900,
+      "updateDate": "2026-03-18T13:05:22.901Z"
+    },
+    {
+      "id": 263,
+      "name": "Ada Johnson",
+      "enable": true,
+      "federativeEntityId": 30,
+      "federativeEntityName": "Veracruz",
+      "createDate": "2025-12-10T21:43:44.894Z",
+      "notaryNumber": 277,
+      "updateDate": "2026-03-17T21:33:48.923Z"
+    },
+    {
+      "id": 264,
+      "name": "Jerald Daniel",
+      "enable": true,
+      "federativeEntityId": 29,
+      "federativeEntityName": "Tlaxcala",
+      "createDate": "2025-04-06T10:56:12.850Z",
+      "notaryNumber": 444,
+      "updateDate": "2026-03-18T06:15:21.774Z"
+    },
+    {
+      "id": 265,
+      "name": "Kurt Weimann-Kris",
+      "enable": true,
+      "federativeEntityId": 8,
+      "federativeEntityName": "Chihuahua",
+      "createDate": "2026-01-28T03:41:08.157Z",
+      "notaryNumber": 498,
+      "updateDate": "2026-03-18T02:55:28.885Z"
+    },
+    {
+      "id": 266,
+      "name": "Keith Mitchell",
+      "enable": true,
+      "federativeEntityId": 10,
+      "federativeEntityName": "Durango",
+      "createDate": "2025-09-02T08:08:19.162Z",
+      "notaryNumber": 948,
+      "updateDate": "2026-03-18T04:14:41.506Z"
+    },
+    {
+      "id": 267,
+      "name": "Terry Cole",
+      "enable": true,
+      "federativeEntityId": 10,
+      "federativeEntityName": "Durango",
+      "createDate": "2025-08-23T23:19:57.176Z",
+      "notaryNumber": 134,
+      "updateDate": "2026-03-18T11:10:58.508Z"
+    },
+    {
+      "id": 268,
+      "name": "Wilbert Collier",
+      "enable": true,
+      "federativeEntityId": 10,
+      "federativeEntityName": "Durango",
+      "createDate": "2025-05-21T03:50:55.519Z",
+      "notaryNumber": 60,
+      "updateDate": "2026-03-17T20:27:44.914Z"
+    },
+    {
+      "id": 269,
+      "name": "Allen Collins",
+      "enable": true,
+      "federativeEntityId": 32,
+      "federativeEntityName": "Zacatecas",
+      "createDate": "2025-04-29T04:29:38.314Z",
+      "notaryNumber": 67,
+      "updateDate": "2026-03-17T19:58:16.921Z"
+    },
+    {
+      "id": 270,
+      "name": "Emily Block Jr.",
+      "enable": false,
+      "federativeEntityId": 7,
+      "federativeEntityName": "Chiapas",
+      "createDate": "2025-06-09T20:15:00.792Z",
+      "notaryNumber": 636,
+      "updateDate": "2026-03-18T17:34:49.646Z"
+    },
+    {
+      "id": 271,
+      "name": "Tim Bergnaum",
+      "enable": true,
+      "federativeEntityId": 32,
+      "federativeEntityName": "Zacatecas",
+      "createDate": "2026-03-07T04:54:18.198Z",
+      "notaryNumber": 960,
+      "updateDate": "2026-03-18T16:00:59.442Z"
+    },
+    {
+      "id": 272,
+      "name": "Ralph Willms",
+      "enable": true,
+      "federativeEntityId": 18,
+      "federativeEntityName": "Nayarit",
+      "createDate": "2026-01-18T10:24:56.636Z",
+      "notaryNumber": 514,
+      "updateDate": "2026-03-18T14:17:27.531Z"
+    },
+    {
+      "id": 273,
+      "name": "Amanda Jenkins",
+      "enable": true,
+      "federativeEntityId": 21,
+      "federativeEntityName": "Puebla",
+      "createDate": "2025-06-30T21:27:46.551Z",
+      "notaryNumber": 730,
+      "updateDate": "2026-03-18T09:37:51.651Z"
+    },
+    {
+      "id": 274,
+      "name": "Diana Howell",
+      "enable": false,
+      "federativeEntityId": 9,
+      "federativeEntityName": "Distrito Federal/CDMX",
+      "createDate": "2025-10-15T00:42:56.178Z",
+      "notaryNumber": 31,
+      "updateDate": "2026-03-18T04:44:30.501Z"
+    },
+    {
+      "id": 275,
+      "name": "Naomi Gorczany",
+      "enable": false,
+      "federativeEntityId": 13,
+      "federativeEntityName": "Hidalgo",
+      "createDate": "2025-05-14T08:00:37.291Z",
+      "notaryNumber": 502,
+      "updateDate": "2026-03-18T10:38:25.453Z"
+    },
+    {
+      "id": 276,
+      "name": "Richard Walsh",
+      "enable": true,
+      "federativeEntityId": 7,
+      "federativeEntityName": "Chiapas",
+      "createDate": "2025-07-12T21:02:58.939Z",
+      "notaryNumber": 365,
+      "updateDate": "2026-03-18T11:54:03.277Z"
+    },
+    {
+      "id": 277,
+      "name": "Rosie Considine",
+      "enable": true,
+      "federativeEntityId": 1,
+      "federativeEntityName": "Aguascalientes",
+      "createDate": "2025-12-13T16:47:25.966Z",
+      "notaryNumber": 638,
+      "updateDate": "2026-03-18T17:24:27.723Z"
+    },
+    {
+      "id": 278,
+      "name": "Jean Stokes",
+      "enable": true,
+      "federativeEntityId": 6,
+      "federativeEntityName": "Colima",
+      "createDate": "2025-09-14T10:09:54.630Z",
+      "notaryNumber": 118,
+      "updateDate": "2026-03-18T02:17:25.372Z"
+    },
+    {
+      "id": 279,
+      "name": "Nicole Bergnaum I",
+      "enable": true,
+      "federativeEntityId": 31,
+      "federativeEntityName": "Yucatán",
+      "createDate": "2025-08-01T03:16:46.476Z",
+      "notaryNumber": 983,
+      "updateDate": "2026-03-18T15:03:16.888Z"
+    },
+    {
+      "id": 280,
+      "name": "Nina Borer",
+      "enable": true,
+      "federativeEntityId": 1,
+      "federativeEntityName": "Aguascalientes",
+      "createDate": "2025-10-09T04:44:46.030Z",
+      "notaryNumber": 682,
+      "updateDate": "2026-03-18T05:40:49.249Z"
+    },
+    {
+      "id": 281,
+      "name": "Eunice Bailey",
+      "enable": false,
+      "federativeEntityId": 4,
+      "federativeEntityName": "Campeche",
+      "createDate": "2025-04-27T16:36:21.024Z",
+      "notaryNumber": 563,
+      "updateDate": "2026-03-17T17:58:48.362Z"
+    },
+    {
+      "id": 282,
+      "name": "Harry Kutch",
+      "enable": true,
+      "federativeEntityId": 33,
+      "federativeEntityName": "EntidadMel edit",
+      "createDate": "2026-03-13T12:43:45.534Z",
+      "notaryNumber": 116,
+      "updateDate": "2026-03-18T08:56:06.486Z"
+    },
+    {
+      "id": 283,
+      "name": "Leonard Schamberger",
+      "enable": true,
+      "federativeEntityId": 29,
+      "federativeEntityName": "Tlaxcala",
+      "createDate": "2025-11-17T04:39:33.976Z",
+      "notaryNumber": 747,
+      "updateDate": "2026-03-18T08:47:14.441Z"
+    },
+    {
+      "id": 284,
+      "name": "Rex Klein",
+      "enable": true,
+      "federativeEntityId": 20,
+      "federativeEntityName": "Oaxaca",
+      "createDate": "2025-05-04T13:58:11.968Z",
+      "notaryNumber": 939,
+      "updateDate": "2026-03-18T02:14:26.796Z"
+    },
+    {
+      "id": 285,
+      "name": "Esther Balistreri",
+      "enable": true,
+      "federativeEntityId": 33,
+      "federativeEntityName": "EntidadMel edit",
+      "createDate": "2026-02-03T12:59:29.950Z",
+      "notaryNumber": 124,
+      "updateDate": "2026-03-18T09:48:51.191Z"
+    },
+    {
+      "id": 286,
+      "name": "Mrs. Mattie Halvorson",
+      "enable": true,
+      "federativeEntityId": 4,
+      "federativeEntityName": "Campeche",
+      "createDate": "2025-04-18T06:02:48.112Z",
+      "notaryNumber": 933,
+      "updateDate": "2026-03-18T16:11:54.760Z"
+    },
+    {
+      "id": 287,
+      "name": "Karen Renner III",
+      "enable": true,
+      "federativeEntityId": 20,
+      "federativeEntityName": "Oaxaca",
+      "createDate": "2025-06-08T08:48:18.862Z",
+      "notaryNumber": 337,
+      "updateDate": "2026-03-18T11:01:16.906Z"
+    },
+    {
+      "id": 288,
+      "name": "Patsy Schowalter",
+      "enable": true,
+      "federativeEntityId": 3,
+      "federativeEntityName": "Baja California Sur",
+      "createDate": "2025-11-30T03:01:15.923Z",
+      "notaryNumber": 716,
+      "updateDate": "2026-03-17T18:07:03.136Z"
+    },
+    {
+      "id": 289,
+      "name": "Dennis Ward",
+      "enable": true,
+      "federativeEntityId": 18,
+      "federativeEntityName": "Nayarit",
+      "createDate": "2025-03-20T07:16:39.690Z",
+      "notaryNumber": 185,
+      "updateDate": "2026-03-18T13:31:29.605Z"
+    },
+    {
+      "id": 290,
+      "name": "Emilio West",
+      "enable": true,
+      "federativeEntityId": 2,
+      "federativeEntityName": "Baja California",
+      "createDate": "2025-06-03T21:49:01.385Z",
+      "notaryNumber": 852,
+      "updateDate": "2026-03-18T14:58:10.415Z"
+    },
+    {
+      "id": 291,
+      "name": "Dr. Miguel Schamberger",
+      "enable": true,
+      "federativeEntityId": 16,
+      "federativeEntityName": "Michoacan",
+      "createDate": "2025-08-20T22:52:29.312Z",
+      "notaryNumber": 989,
+      "updateDate": "2026-03-18T08:49:15.097Z"
+    },
+    {
+      "id": 292,
+      "name": "Bessie Mitchell",
+      "enable": true,
+      "federativeEntityId": 14,
+      "federativeEntityName": "Jalisco",
+      "createDate": "2025-11-22T13:11:13.582Z",
+      "notaryNumber": 876,
+      "updateDate": "2026-03-18T06:26:35.784Z"
+    },
+    {
+      "id": 293,
+      "name": "Bertha Hirthe",
+      "enable": true,
+      "federativeEntityId": 22,
+      "federativeEntityName": "Querétaro",
+      "createDate": "2025-11-03T15:08:54.360Z",
+      "notaryNumber": 598,
+      "updateDate": "2026-03-18T09:38:27.971Z"
+    },
+    {
+      "id": 294,
+      "name": "Jana Hammes-Johns",
+      "enable": true,
+      "federativeEntityId": 14,
+      "federativeEntityName": "Jalisco",
+      "createDate": "2025-11-05T22:06:39.729Z",
+      "notaryNumber": 551,
+      "updateDate": "2026-03-18T10:44:02.482Z"
+    },
+    {
+      "id": 295,
+      "name": "Sonia Lesch",
+      "enable": true,
+      "federativeEntityId": 33,
+      "federativeEntityName": "EntidadMel edit",
+      "createDate": "2025-07-26T22:24:43.858Z",
+      "notaryNumber": 426,
+      "updateDate": "2026-03-18T08:17:52.569Z"
+    },
+    {
+      "id": 296,
+      "name": "Dora Donnelly",
+      "enable": true,
+      "federativeEntityId": 25,
+      "federativeEntityName": "San Luis Potosí",
+      "createDate": "2026-02-13T00:14:41.554Z",
+      "notaryNumber": 160,
+      "updateDate": "2026-03-18T07:10:55.785Z"
+    },
+    {
+      "id": 297,
+      "name": "Chad Jacobs-McDermott",
+      "enable": true,
+      "federativeEntityId": 10,
+      "federativeEntityName": "Durango",
+      "createDate": "2025-04-28T17:02:09.648Z",
+      "notaryNumber": 761,
+      "updateDate": "2026-03-18T09:59:50.938Z"
+    },
+    {
+      "id": 298,
+      "name": "Daniel Sanford",
+      "enable": false,
+      "federativeEntityId": 22,
+      "federativeEntityName": "Querétaro",
+      "createDate": "2025-06-18T07:44:17.098Z",
+      "notaryNumber": 554,
+      "updateDate": "2026-03-18T16:42:16.229Z"
+    },
+    {
+      "id": 299,
+      "name": "Judith Gorczany MD",
+      "enable": false,
+      "federativeEntityId": 24,
+      "federativeEntityName": "Sinaloa",
+      "createDate": "2025-11-08T12:12:10.927Z",
+      "notaryNumber": 15,
+      "updateDate": "2026-03-18T02:40:59.932Z"
+    },
+    {
+      "id": 300,
+      "name": "Beth Strosin",
+      "enable": true,
+      "federativeEntityId": 6,
+      "federativeEntityName": "Colima",
+      "createDate": "2025-08-31T18:08:32.411Z",
+      "notaryNumber": 196,
+      "updateDate": "2026-03-18T13:49:39.539Z"
+    },
+    {
+      "id": 301,
+      "name": "Carolyn Johnston",
+      "enable": true,
+      "federativeEntityId": 3,
+      "federativeEntityName": "Baja California Sur",
+      "createDate": "2025-12-27T04:05:13.788Z",
+      "notaryNumber": 600,
+      "updateDate": "2026-03-18T17:32:55.707Z"
+    },
+    {
+      "id": 302,
+      "name": "Ora Hane",
+      "enable": true,
+      "federativeEntityId": 20,
+      "federativeEntityName": "Oaxaca",
+      "createDate": "2025-12-11T08:04:43.820Z",
+      "notaryNumber": 223,
+      "updateDate": "2026-03-18T06:22:00.560Z"
+    },
+    {
+      "id": 303,
+      "name": "Rodolfo Bechtelar",
+      "enable": true,
+      "federativeEntityId": 15,
+      "federativeEntityName": "Estado de México",
+      "createDate": "2025-07-19T18:29:17.733Z",
+      "notaryNumber": 593,
+      "updateDate": "2026-03-18T01:59:15.097Z"
+    },
+    {
+      "id": 304,
+      "name": "Leticia Beatty III",
+      "enable": true,
+      "federativeEntityId": 16,
+      "federativeEntityName": "Michoacan",
+      "createDate": "2025-10-24T09:43:18.226Z",
+      "notaryNumber": 253,
+      "updateDate": "2026-03-18T07:56:59.583Z"
+    },
+    {
+      "id": 305,
+      "name": "Aaron Daugherty",
+      "enable": false,
+      "federativeEntityId": 31,
+      "federativeEntityName": "Yucatán",
+      "createDate": "2025-11-30T17:58:37.235Z",
+      "notaryNumber": 374,
+      "updateDate": "2026-03-18T13:15:41.355Z"
+    },
+    {
+      "id": 306,
+      "name": "Tabitha O'Kon",
+      "enable": true,
+      "federativeEntityId": 26,
+      "federativeEntityName": "Sonora",
+      "createDate": "2025-07-04T00:33:01.867Z",
+      "notaryNumber": 511,
+      "updateDate": "2026-03-17T23:01:03.715Z"
+    },
+    {
+      "id": 307,
+      "name": "Lora Bayer DDS",
+      "enable": true,
+      "federativeEntityId": 23,
+      "federativeEntityName": "Quintana Roo",
+      "createDate": "2025-07-18T21:15:11.180Z",
+      "notaryNumber": 852,
+      "updateDate": "2026-03-18T02:14:54.757Z"
+    },
+    {
+      "id": 308,
+      "name": "Mr. Alberto Berge",
+      "enable": true,
+      "federativeEntityId": 17,
+      "federativeEntityName": "Morelos",
+      "createDate": "2026-02-12T06:24:46.077Z",
+      "notaryNumber": 602,
+      "updateDate": "2026-03-18T17:32:12.510Z"
+    },
+    {
+      "id": 309,
+      "name": "Al Bashirian",
+      "enable": true,
+      "federativeEntityId": 13,
+      "federativeEntityName": "Hidalgo",
+      "createDate": "2026-02-25T11:32:43.267Z",
+      "notaryNumber": 58,
+      "updateDate": "2026-03-18T09:14:47.640Z"
+    },
+    {
+      "id": 310,
+      "name": "Timothy Herzog",
+      "enable": true,
+      "federativeEntityId": 6,
+      "federativeEntityName": "Colima",
+      "createDate": "2025-04-02T02:11:20.140Z",
+      "notaryNumber": 620,
+      "updateDate": "2026-03-17T23:44:03.651Z"
+    },
+    {
+      "id": 311,
+      "name": "Mr. Ted Kilback",
+      "enable": true,
+      "federativeEntityId": 3,
+      "federativeEntityName": "Baja California Sur",
+      "createDate": "2025-06-23T17:20:44.340Z",
+      "notaryNumber": 871,
+      "updateDate": "2026-03-17T23:54:35.648Z"
+    },
+    {
+      "id": 312,
+      "name": "Cindy Hilpert",
+      "enable": true,
+      "federativeEntityId": 1,
+      "federativeEntityName": "Aguascalientes",
+      "createDate": "2025-07-26T06:02:01.407Z",
+      "notaryNumber": 743,
+      "updateDate": "2026-03-18T01:50:18.354Z"
+    },
+    {
+      "id": 313,
+      "name": "Christie Baumbach",
+      "enable": false,
+      "federativeEntityId": 33,
+      "federativeEntityName": "EntidadMel edit",
+      "createDate": "2025-11-20T01:06:06.702Z",
+      "notaryNumber": 128,
+      "updateDate": "2026-03-18T10:01:17.311Z"
+    },
+    {
+      "id": 314,
+      "name": "Ellis Gleichner",
+      "enable": true,
+      "federativeEntityId": 19,
+      "federativeEntityName": "Nuevo León",
+      "createDate": "2025-11-14T19:34:13.107Z",
+      "notaryNumber": 653,
+      "updateDate": "2026-03-18T00:23:58.857Z"
+    },
+    {
+      "id": 315,
+      "name": "Jesus Bradtke",
+      "enable": true,
+      "federativeEntityId": 20,
+      "federativeEntityName": "Oaxaca",
+      "createDate": "2025-10-10T10:17:19.497Z",
+      "notaryNumber": 222,
+      "updateDate": "2026-03-18T01:08:52.287Z"
+    },
+    {
+      "id": 316,
+      "name": "Darrel Rodriguez",
+      "enable": true,
+      "federativeEntityId": 23,
+      "federativeEntityName": "Quintana Roo",
+      "createDate": "2025-05-18T23:46:02.269Z",
+      "notaryNumber": 295,
+      "updateDate": "2026-03-18T06:08:57.109Z"
+    },
+    {
+      "id": 317,
+      "name": "Patricia Hickle Jr.",
+      "enable": true,
+      "federativeEntityId": 12,
+      "federativeEntityName": "Guanajuato",
+      "createDate": "2025-07-26T19:43:32.828Z",
+      "notaryNumber": 697,
+      "updateDate": "2026-03-18T08:17:51.049Z"
+    },
+    {
+      "id": 318,
+      "name": "Bertha Padberg",
+      "enable": true,
+      "federativeEntityId": 10,
+      "federativeEntityName": "Durango",
+      "createDate": "2026-03-06T07:38:57.604Z",
+      "notaryNumber": 289,
+      "updateDate": "2026-03-18T00:36:04.310Z"
+    },
+    {
+      "id": 319,
+      "name": "Rufus Paucek",
+      "enable": false,
+      "federativeEntityId": 15,
+      "federativeEntityName": "Estado de México",
+      "createDate": "2025-11-05T23:14:37.677Z",
+      "notaryNumber": 235,
+      "updateDate": "2026-03-18T13:18:29.430Z"
+    },
+    {
+      "id": 320,
+      "name": "Dr. Derrick Hickle Jr.",
+      "enable": true,
+      "federativeEntityId": 22,
+      "federativeEntityName": "Querétaro",
+      "createDate": "2025-12-08T02:48:25.673Z",
+      "notaryNumber": 942,
+      "updateDate": "2026-03-17T21:06:18.353Z"
+    },
+    {
+      "id": 321,
+      "name": "Brittany Brown",
+      "enable": true,
+      "federativeEntityId": 9,
+      "federativeEntityName": "Distrito Federal/CDMX",
+      "createDate": "2025-10-19T19:00:26.458Z",
+      "notaryNumber": 548,
+      "updateDate": "2026-03-18T02:22:01.932Z"
+    },
+    {
+      "id": 322,
+      "name": "Elena Ryan",
+      "enable": true,
+      "federativeEntityId": 31,
+      "federativeEntityName": "Yucatán",
+      "createDate": "2025-09-15T17:09:01.665Z",
+      "notaryNumber": 511,
+      "updateDate": "2026-03-18T03:13:08.170Z"
+    },
+    {
+      "id": 323,
+      "name": "Jaime Funk",
+      "enable": false,
+      "federativeEntityId": 9,
+      "federativeEntityName": "Distrito Federal/CDMX",
+      "createDate": "2025-12-16T05:43:06.494Z",
+      "notaryNumber": 273,
+      "updateDate": "2026-03-18T05:44:37.661Z"
+    },
+    {
+      "id": 324,
+      "name": "Sylvia Gerlach",
+      "enable": true,
+      "federativeEntityId": 17,
+      "federativeEntityName": "Morelos",
+      "createDate": "2025-07-03T17:33:07.416Z",
+      "notaryNumber": 900,
+      "updateDate": "2026-03-18T15:33:33.758Z"
+    },
+    {
+      "id": 325,
+      "name": "Jimmie Leannon",
+      "enable": true,
+      "federativeEntityId": 13,
+      "federativeEntityName": "Hidalgo",
+      "createDate": "2025-10-11T23:36:54.773Z",
+      "notaryNumber": 391,
+      "updateDate": "2026-03-18T08:57:18.338Z"
+    },
+    {
+      "id": 326,
+      "name": "Stephanie Bergstrom",
+      "enable": true,
+      "federativeEntityId": 33,
+      "federativeEntityName": "EntidadMel edit",
+      "createDate": "2025-09-03T21:35:58.951Z",
+      "notaryNumber": 737,
+      "updateDate": "2026-03-18T02:13:26.358Z"
+    },
+    {
+      "id": 327,
+      "name": "Ken Morar",
+      "enable": true,
+      "federativeEntityId": 31,
+      "federativeEntityName": "Yucatán",
+      "createDate": "2026-02-07T14:45:54.638Z",
+      "notaryNumber": 393,
+      "updateDate": "2026-03-18T06:36:23.741Z"
+    },
+    {
+      "id": 328,
+      "name": "Phillip Schowalter",
+      "enable": true,
+      "federativeEntityId": 33,
+      "federativeEntityName": "EntidadMel edit",
+      "createDate": "2025-07-21T21:04:05.657Z",
+      "notaryNumber": 482,
+      "updateDate": "2026-03-17T23:13:18.536Z"
+    },
+    {
+      "id": 329,
+      "name": "Paul Shields",
+      "enable": true,
+      "federativeEntityId": 31,
+      "federativeEntityName": "Yucatán",
+      "createDate": "2025-05-14T16:19:04.455Z",
+      "notaryNumber": 336,
+      "updateDate": "2026-03-17T18:14:19.393Z"
+    },
+    {
+      "id": 330,
+      "name": "Tammy Gottlieb",
+      "enable": false,
+      "federativeEntityId": 3,
+      "federativeEntityName": "Baja California Sur",
+      "createDate": "2025-12-01T03:07:56.937Z",
+      "notaryNumber": 31,
+      "updateDate": "2026-03-17T23:35:25.756Z"
+    },
+    {
+      "id": 331,
+      "name": "Dr. Agnes Volkman",
+      "enable": false,
+      "federativeEntityId": 13,
+      "federativeEntityName": "Hidalgo",
+      "createDate": "2025-03-26T00:42:24.410Z",
+      "notaryNumber": 315,
+      "updateDate": "2026-03-18T06:05:43.395Z"
+    },
+    {
+      "id": 332,
+      "name": "Justin Mann",
+      "enable": true,
+      "federativeEntityId": 13,
+      "federativeEntityName": "Hidalgo",
+      "createDate": "2025-08-05T17:33:12.203Z",
+      "notaryNumber": 998,
+      "updateDate": "2026-03-18T10:48:25.273Z"
+    },
+    {
+      "id": 333,
+      "name": "Mrs. Hilda Leannon",
+      "enable": true,
+      "federativeEntityId": 8,
+      "federativeEntityName": "Chihuahua",
+      "createDate": "2025-11-18T04:43:07.814Z",
+      "notaryNumber": 607,
+      "updateDate": "2026-03-18T07:16:00.192Z"
+    },
+    {
+      "id": 334,
+      "name": "Ms. Blanca Emmerich",
+      "enable": true,
+      "federativeEntityId": 25,
+      "federativeEntityName": "San Luis Potosí",
+      "createDate": "2026-02-22T10:08:40.782Z",
+      "notaryNumber": 747,
+      "updateDate": "2026-03-18T05:48:13.377Z"
+    },
+    {
+      "id": 335,
+      "name": "Judy Johnston",
+      "enable": true,
+      "federativeEntityId": 2,
+      "federativeEntityName": "Baja California",
+      "createDate": "2025-08-23T09:13:10.335Z",
+      "notaryNumber": 697,
+      "updateDate": "2026-03-18T03:35:44.829Z"
+    },
+    {
+      "id": 336,
+      "name": "Ross Marks",
+      "enable": false,
+      "federativeEntityId": 24,
+      "federativeEntityName": "Sinaloa",
+      "createDate": "2025-07-20T10:30:34.643Z",
+      "notaryNumber": 954,
+      "updateDate": "2026-03-18T09:45:53.535Z"
+    },
+    {
+      "id": 337,
+      "name": "Garry Bode",
+      "enable": true,
+      "federativeEntityId": 21,
+      "federativeEntityName": "Puebla",
+      "createDate": "2025-05-04T08:54:32.922Z",
+      "notaryNumber": 345,
+      "updateDate": "2026-03-18T07:38:35.026Z"
+    },
+    {
+      "id": 338,
+      "name": "Nellie O'Keefe",
+      "enable": true,
+      "federativeEntityId": 1,
+      "federativeEntityName": "Aguascalientes",
+      "createDate": "2025-04-06T21:27:11.082Z",
+      "notaryNumber": 3,
+      "updateDate": "2026-03-18T05:51:11.873Z"
+    },
+    {
+      "id": 339,
+      "name": "Guy Franecki MD",
+      "enable": true,
+      "federativeEntityId": 2,
+      "federativeEntityName": "Baja California",
+      "createDate": "2025-12-18T17:47:20.655Z",
+      "notaryNumber": 685,
+      "updateDate": "2026-03-17T18:32:25.711Z"
+    },
+    {
+      "id": 340,
+      "name": "Brandy Ortiz",
+      "enable": true,
+      "federativeEntityId": 31,
+      "federativeEntityName": "Yucatán",
+      "createDate": "2025-08-06T19:01:28.022Z",
+      "notaryNumber": 596,
+      "updateDate": "2026-03-18T15:50:17.843Z"
+    },
+    {
+      "id": 341,
+      "name": "Yvette Lubowitz Jr.",
+      "enable": true,
+      "federativeEntityId": 11,
+      "federativeEntityName": "Guerrero",
+      "createDate": "2026-01-10T01:51:51.419Z",
+      "notaryNumber": 450,
+      "updateDate": "2026-03-18T07:04:55.122Z"
+    },
+    {
+      "id": 342,
+      "name": "Dianne McGlynn",
+      "enable": true,
+      "federativeEntityId": 27,
+      "federativeEntityName": "Tabasco",
+      "createDate": "2025-05-12T12:02:13.258Z",
+      "notaryNumber": 899,
+      "updateDate": "2026-03-18T04:24:50.020Z"
+    },
+    {
+      "id": 343,
+      "name": "Conrad Schoen Sr.",
+      "enable": true,
+      "federativeEntityId": 11,
+      "federativeEntityName": "Guerrero",
+      "createDate": "2025-07-30T01:39:33.375Z",
+      "notaryNumber": 744,
+      "updateDate": "2026-03-18T05:15:44.821Z"
+    },
+    {
+      "id": 344,
+      "name": "Sara Gleichner-Monahan",
+      "enable": true,
+      "federativeEntityId": 16,
+      "federativeEntityName": "Michoacan",
+      "createDate": "2026-01-21T16:24:08.927Z",
+      "notaryNumber": 482,
+      "updateDate": "2026-03-18T12:49:10.679Z"
+    },
+    {
+      "id": 345,
+      "name": "Earnest Kerluke-Hermiston",
+      "enable": true,
+      "federativeEntityId": 32,
+      "federativeEntityName": "Zacatecas",
+      "createDate": "2025-12-24T18:15:25.429Z",
+      "notaryNumber": 309,
+      "updateDate": "2026-03-18T02:06:45.135Z"
+    },
+    {
+      "id": 346,
+      "name": "Clyde Johnston",
+      "enable": true,
+      "federativeEntityId": 25,
+      "federativeEntityName": "San Luis Potosí",
+      "createDate": "2026-02-02T00:47:53.283Z",
+      "notaryNumber": 807,
+      "updateDate": "2026-03-18T14:18:13.010Z"
+    },
+    {
+      "id": 347,
+      "name": "Josh Walter",
+      "enable": true,
+      "federativeEntityId": 26,
+      "federativeEntityName": "Sonora",
+      "createDate": "2025-05-11T01:52:33.813Z",
+      "notaryNumber": 679,
+      "updateDate": "2026-03-17T18:24:52.069Z"
+    },
+    {
+      "id": 348,
+      "name": "Inez Heaney IV",
+      "enable": true,
+      "federativeEntityId": 1,
+      "federativeEntityName": "Aguascalientes",
+      "createDate": "2025-03-27T06:02:39.275Z",
+      "notaryNumber": 544,
+      "updateDate": "2026-03-18T13:10:19.560Z"
+    },
+    {
+      "id": 349,
+      "name": "Alfred Botsford",
+      "enable": true,
+      "federativeEntityId": 18,
+      "federativeEntityName": "Nayarit",
+      "createDate": "2025-12-07T06:56:36.380Z",
+      "notaryNumber": 367,
+      "updateDate": "2026-03-17T21:16:57.507Z"
+    },
+    {
+      "id": 350,
+      "name": "Elaine West",
+      "enable": false,
+      "federativeEntityId": 25,
+      "federativeEntityName": "San Luis Potosí",
+      "createDate": "2025-07-24T05:57:30.071Z",
+      "notaryNumber": 530,
+      "updateDate": "2026-03-18T06:12:03.340Z"
+    },
+    {
+      "id": 351,
+      "name": "Neal Jacobi V",
+      "enable": true,
+      "federativeEntityId": 11,
+      "federativeEntityName": "Guerrero",
+      "createDate": "2025-10-26T04:17:58.843Z",
+      "notaryNumber": 12,
+      "updateDate": "2026-03-18T06:42:01.048Z"
+    },
+    {
+      "id": 352,
+      "name": "Brandon Russel",
+      "enable": true,
+      "federativeEntityId": 15,
+      "federativeEntityName": "Estado de México",
+      "createDate": "2026-01-16T04:14:30.975Z",
+      "notaryNumber": 40,
+      "updateDate": "2026-03-18T15:08:22.028Z"
+    },
+    {
+      "id": 353,
+      "name": "Judith VonRueden",
+      "enable": false,
+      "federativeEntityId": 16,
+      "federativeEntityName": "Michoacan",
+      "createDate": "2026-03-03T07:13:13.805Z",
+      "notaryNumber": 107,
+      "updateDate": "2026-03-18T07:30:03.524Z"
+    },
+    {
+      "id": 354,
+      "name": "Luther Dibbert I",
+      "enable": true,
+      "federativeEntityId": 10,
+      "federativeEntityName": "Durango",
+      "createDate": "2025-03-20T20:11:15.413Z",
+      "notaryNumber": 120,
+      "updateDate": "2026-03-18T09:27:42.394Z"
+    },
+    {
+      "id": 355,
+      "name": "Nellie Beatty",
+      "enable": true,
+      "federativeEntityId": 15,
+      "federativeEntityName": "Estado de México",
+      "createDate": "2025-05-28T15:30:39.106Z",
+      "notaryNumber": 337,
+      "updateDate": "2026-03-18T12:18:23.199Z"
+    },
+    {
+      "id": 356,
+      "name": "Ella Boyer PhD",
+      "enable": true,
+      "federativeEntityId": 31,
+      "federativeEntityName": "Yucatán",
+      "createDate": "2025-04-04T10:53:44.327Z",
+      "notaryNumber": 687,
+      "updateDate": "2026-03-17T21:00:39.575Z"
+    },
+    {
+      "id": 357,
+      "name": "Ernestine Rosenbaum",
+      "enable": true,
+      "federativeEntityId": 2,
+      "federativeEntityName": "Baja California",
+      "createDate": "2025-06-24T22:25:48.934Z",
+      "notaryNumber": 212,
+      "updateDate": "2026-03-18T00:42:53.203Z"
+    },
+    {
+      "id": 358,
+      "name": "Lester Pollich",
+      "enable": true,
+      "federativeEntityId": 11,
+      "federativeEntityName": "Guerrero",
+      "createDate": "2025-12-15T19:18:14.832Z",
+      "notaryNumber": 555,
+      "updateDate": "2026-03-18T05:09:20.992Z"
+    },
+    {
+      "id": 359,
+      "name": "Evelyn Orn",
+      "enable": false,
+      "federativeEntityId": 1,
+      "federativeEntityName": "Aguascalientes",
+      "createDate": "2025-08-06T16:02:28.174Z",
+      "notaryNumber": 143,
+      "updateDate": "2026-03-18T14:09:40.265Z"
+    },
+    {
+      "id": 360,
+      "name": "Alfredo Lockman",
+      "enable": false,
+      "federativeEntityId": 19,
+      "federativeEntityName": "Nuevo León",
+      "createDate": "2026-01-16T13:48:33.967Z",
+      "notaryNumber": 460,
+      "updateDate": "2026-03-18T11:36:32.778Z"
+    },
+    {
+      "id": 361,
+      "name": "Delores McCullough",
+      "enable": true,
+      "federativeEntityId": 29,
+      "federativeEntityName": "Tlaxcala",
+      "createDate": "2025-07-14T15:25:24.589Z",
+      "notaryNumber": 226,
+      "updateDate": "2026-03-18T00:42:12.587Z"
+    },
+    {
+      "id": 362,
+      "name": "Brandon Cole",
+      "enable": true,
+      "federativeEntityId": 16,
+      "federativeEntityName": "Michoacan",
+      "createDate": "2025-09-22T04:19:51.691Z",
+      "notaryNumber": 932,
+      "updateDate": "2026-03-18T09:49:26.077Z"
+    },
+    {
+      "id": 363,
+      "name": "Mae Gerlach",
+      "enable": true,
+      "federativeEntityId": 26,
+      "federativeEntityName": "Sonora",
+      "createDate": "2025-07-28T22:02:50.304Z",
+      "notaryNumber": 221,
+      "updateDate": "2026-03-18T13:20:25.209Z"
+    },
+    {
+      "id": 364,
+      "name": "Sam Beahan",
+      "enable": true,
+      "federativeEntityId": 32,
+      "federativeEntityName": "Zacatecas",
+      "createDate": "2025-11-06T03:10:18.534Z",
+      "notaryNumber": 833,
+      "updateDate": "2026-03-18T10:27:34.074Z"
+    },
+    {
+      "id": 365,
+      "name": "Dr. Conrad Cremin-Hilpert",
+      "enable": true,
+      "federativeEntityId": 22,
+      "federativeEntityName": "Querétaro",
+      "createDate": "2025-05-16T05:40:00.742Z",
+      "notaryNumber": 103,
+      "updateDate": "2026-03-18T15:58:53.325Z"
+    },
+    {
+      "id": 366,
+      "name": "Pauline Mante",
+      "enable": true,
+      "federativeEntityId": 12,
+      "federativeEntityName": "Guanajuato",
+      "createDate": "2025-05-18T18:28:35.835Z",
+      "notaryNumber": 127,
+      "updateDate": "2026-03-18T14:07:26.765Z"
+    },
+    {
+      "id": 367,
+      "name": "Elsie Oberbrunner",
+      "enable": true,
+      "federativeEntityId": 17,
+      "federativeEntityName": "Morelos",
+      "createDate": "2025-08-25T09:55:48.302Z",
+      "notaryNumber": 143,
+      "updateDate": "2026-03-18T05:53:00.331Z"
+    },
+    {
+      "id": 368,
+      "name": "Ivan Nicolas",
+      "enable": true,
+      "federativeEntityId": 16,
+      "federativeEntityName": "Michoacan",
+      "createDate": "2025-07-13T18:31:23.111Z",
+      "notaryNumber": 885,
+      "updateDate": "2026-03-18T12:31:14.287Z"
+    },
+    {
+      "id": 369,
+      "name": "Alton Wintheiser",
+      "enable": true,
+      "federativeEntityId": 24,
+      "federativeEntityName": "Sinaloa",
+      "createDate": "2025-12-05T04:40:37.674Z",
+      "notaryNumber": 288,
+      "updateDate": "2026-03-18T15:59:25.117Z"
+    },
+    {
+      "id": 370,
+      "name": "Pablo Dooley",
+      "enable": true,
+      "federativeEntityId": 26,
+      "federativeEntityName": "Sonora",
+      "createDate": "2026-02-11T20:03:27.093Z",
+      "notaryNumber": 967,
+      "updateDate": "2026-03-18T07:43:49.307Z"
+    },
+    {
+      "id": 371,
+      "name": "Jay Beatty DDS",
+      "enable": true,
+      "federativeEntityId": 5,
+      "federativeEntityName": "Coahuila de Zaragoza",
+      "createDate": "2025-12-26T19:52:19.251Z",
+      "notaryNumber": 869,
+      "updateDate": "2026-03-18T11:19:43.613Z"
+    },
+    {
+      "id": 372,
+      "name": "Jessica Kuhn",
+      "enable": true,
+      "federativeEntityId": 5,
+      "federativeEntityName": "Coahuila de Zaragoza",
+      "createDate": "2025-12-05T19:37:34.894Z",
+      "notaryNumber": 927,
+      "updateDate": "2026-03-18T02:49:37.239Z"
+    },
+    {
+      "id": 373,
+      "name": "Darrel Ankunding",
+      "enable": false,
+      "federativeEntityId": 8,
+      "federativeEntityName": "Chihuahua",
+      "createDate": "2025-09-27T02:04:13.732Z",
+      "notaryNumber": 335,
+      "updateDate": "2026-03-18T14:44:47.292Z"
+    },
+    {
+      "id": 374,
+      "name": "Todd Reichel",
+      "enable": true,
+      "federativeEntityId": 33,
+      "federativeEntityName": "EntidadMel edit",
+      "createDate": "2026-02-23T19:05:46.560Z",
+      "notaryNumber": 188,
+      "updateDate": "2026-03-18T03:41:21.980Z"
+    },
+    {
+      "id": 375,
+      "name": "Duane Wuckert",
+      "enable": true,
+      "federativeEntityId": 21,
+      "federativeEntityName": "Puebla",
+      "createDate": "2026-02-10T11:10:59.246Z",
+      "notaryNumber": 796,
+      "updateDate": "2026-03-17T19:11:13.400Z"
+    },
+    {
+      "id": 376,
+      "name": "Ray Krajcik I",
+      "enable": true,
+      "federativeEntityId": 24,
+      "federativeEntityName": "Sinaloa",
+      "createDate": "2025-05-15T15:24:39.570Z",
+      "notaryNumber": 124,
+      "updateDate": "2026-03-18T11:57:41.816Z"
+    },
+    {
+      "id": 377,
+      "name": "Taylor Block",
+      "enable": false,
+      "federativeEntityId": 11,
+      "federativeEntityName": "Guerrero",
+      "createDate": "2025-09-23T10:19:00.635Z",
+      "notaryNumber": 565,
+      "updateDate": "2026-03-18T16:57:29.969Z"
+    },
+    {
+      "id": 378,
+      "name": "Eugene Schinner",
+      "enable": true,
+      "federativeEntityId": 16,
+      "federativeEntityName": "Michoacan",
+      "createDate": "2025-09-17T15:13:59.538Z",
+      "notaryNumber": 91,
+      "updateDate": "2026-03-17T20:55:24.005Z"
+    },
+    {
+      "id": 379,
+      "name": "Mr. Marlon Larkin",
+      "enable": false,
+      "federativeEntityId": 26,
+      "federativeEntityName": "Sonora",
+      "createDate": "2025-08-22T13:26:07.947Z",
+      "notaryNumber": 767,
+      "updateDate": "2026-03-18T14:23:35.031Z"
+    },
+    {
+      "id": 380,
+      "name": "Miss Kathleen Reinger",
+      "enable": false,
+      "federativeEntityId": 22,
+      "federativeEntityName": "Querétaro",
+      "createDate": "2025-10-26T07:18:59.080Z",
+      "notaryNumber": 216,
+      "updateDate": "2026-03-18T03:57:12.642Z"
+    },
+    {
+      "id": 381,
+      "name": "Rene Sporer",
+      "enable": true,
+      "federativeEntityId": 4,
+      "federativeEntityName": "Campeche",
+      "createDate": "2025-05-08T22:17:24.141Z",
+      "notaryNumber": 71,
+      "updateDate": "2026-03-18T09:37:15.246Z"
+    },
+    {
+      "id": 382,
+      "name": "Frances Towne",
+      "enable": true,
+      "federativeEntityId": 32,
+      "federativeEntityName": "Zacatecas",
+      "createDate": "2026-02-13T06:59:13.180Z",
+      "notaryNumber": 282,
+      "updateDate": "2026-03-18T00:48:29.040Z"
+    },
+    {
+      "id": 383,
+      "name": "Mrs. Connie O'Connell",
+      "enable": true,
+      "federativeEntityId": 28,
+      "federativeEntityName": "Tamaulipas",
+      "createDate": "2026-02-02T11:41:07.153Z",
+      "notaryNumber": 413,
+      "updateDate": "2026-03-18T07:44:18.338Z"
+    },
+    {
+      "id": 384,
+      "name": "Angie Morar",
+      "enable": true,
+      "federativeEntityId": 7,
+      "federativeEntityName": "Chiapas",
+      "createDate": "2025-05-29T15:37:27.132Z",
+      "notaryNumber": 481,
+      "updateDate": "2026-03-18T03:54:21.776Z"
+    },
+    {
+      "id": 385,
+      "name": "Sherry Durgan",
+      "enable": true,
+      "federativeEntityId": 27,
+      "federativeEntityName": "Tabasco",
+      "createDate": "2025-07-29T22:45:14.740Z",
+      "notaryNumber": 959,
+      "updateDate": "2026-03-18T00:55:41.651Z"
+    },
+    {
+      "id": 386,
+      "name": "Stewart Lockman",
+      "enable": true,
+      "federativeEntityId": 27,
+      "federativeEntityName": "Tabasco",
+      "createDate": "2025-05-21T07:20:39.060Z",
+      "notaryNumber": 675,
+      "updateDate": "2026-03-17T19:13:32.840Z"
+    },
+    {
+      "id": 387,
+      "name": "Lisa Huel V",
+      "enable": true,
+      "federativeEntityId": 22,
+      "federativeEntityName": "Querétaro",
+      "createDate": "2025-11-23T04:53:46.409Z",
+      "notaryNumber": 383,
+      "updateDate": "2026-03-17T20:29:24.453Z"
+    },
+    {
+      "id": 388,
+      "name": "Ora Spencer",
+      "enable": false,
+      "federativeEntityId": 3,
+      "federativeEntityName": "Baja California Sur",
+      "createDate": "2026-02-09T13:03:29.463Z",
+      "notaryNumber": 666,
+      "updateDate": "2026-03-18T01:48:45.764Z"
+    },
+    {
+      "id": 389,
+      "name": "Leland Thiel",
+      "enable": true,
+      "federativeEntityId": 27,
+      "federativeEntityName": "Tabasco",
+      "createDate": "2025-12-22T06:19:46.217Z",
+      "notaryNumber": 740,
+      "updateDate": "2026-03-18T05:35:36.976Z"
+    },
+    {
+      "id": 390,
+      "name": "Natalie Kuphal",
+      "enable": true,
+      "federativeEntityId": 33,
+      "federativeEntityName": "EntidadMel edit",
+      "createDate": "2025-03-29T05:57:05.005Z",
+      "notaryNumber": 936,
+      "updateDate": "2026-03-18T09:15:07.323Z"
+    },
+    {
+      "id": 391,
+      "name": "Antonia Labadie",
+      "enable": true,
+      "federativeEntityId": 31,
+      "federativeEntityName": "Yucatán",
+      "createDate": "2025-06-01T08:19:21.723Z",
+      "notaryNumber": 596,
+      "updateDate": "2026-03-18T10:57:34.664Z"
+    },
+    {
+      "id": 392,
+      "name": "George Labadie",
+      "enable": false,
+      "federativeEntityId": 30,
+      "federativeEntityName": "Veracruz",
+      "createDate": "2026-02-26T13:29:55.372Z",
+      "notaryNumber": 95,
+      "updateDate": "2026-03-18T16:42:37.499Z"
+    },
+    {
+      "id": 393,
+      "name": "Crystal Windler",
+      "enable": true,
+      "federativeEntityId": 32,
+      "federativeEntityName": "Zacatecas",
+      "createDate": "2025-12-13T23:42:35.749Z",
+      "notaryNumber": 732,
+      "updateDate": "2026-03-17T23:27:57.223Z"
+    },
+    {
+      "id": 394,
+      "name": "Jeremy Monahan",
+      "enable": true,
+      "federativeEntityId": 13,
+      "federativeEntityName": "Hidalgo",
+      "createDate": "2026-03-08T00:53:51.049Z",
+      "notaryNumber": 592,
+      "updateDate": "2026-03-18T16:15:01.523Z"
+    },
+    {
+      "id": 395,
+      "name": "Corey Marks-Wolff",
+      "enable": true,
+      "federativeEntityId": 25,
+      "federativeEntityName": "San Luis Potosí",
+      "createDate": "2025-11-07T11:20:30.619Z",
+      "notaryNumber": 349,
+      "updateDate": "2026-03-17T22:16:13.508Z"
+    },
+    {
+      "id": 396,
+      "name": "Dr. Jerry Wilkinson DDS",
+      "enable": true,
+      "federativeEntityId": 9,
+      "federativeEntityName": "Distrito Federal/CDMX",
+      "createDate": "2026-03-10T14:31:08.696Z",
+      "notaryNumber": 171,
+      "updateDate": "2026-03-18T00:21:17.763Z"
+    },
+    {
+      "id": 397,
+      "name": "Lynda Hyatt",
+      "enable": true,
+      "federativeEntityId": 2,
+      "federativeEntityName": "Baja California",
+      "createDate": "2025-06-15T05:51:24.989Z",
+      "notaryNumber": 11,
+      "updateDate": "2026-03-18T02:24:05.054Z"
+    },
+    {
+      "id": 398,
+      "name": "Ignacio Zboncak",
+      "enable": true,
+      "federativeEntityId": 32,
+      "federativeEntityName": "Zacatecas",
+      "createDate": "2026-03-14T21:02:23.779Z",
+      "notaryNumber": 472,
+      "updateDate": "2026-03-18T04:10:33.793Z"
+    },
+    {
+      "id": 399,
+      "name": "Levi Oberbrunner",
+      "enable": true,
+      "federativeEntityId": 23,
+      "federativeEntityName": "Quintana Roo",
+      "createDate": "2026-01-06T00:41:17.026Z",
+      "notaryNumber": 650,
+      "updateDate": "2026-03-18T06:05:47.556Z"
+    },
+    {
+      "id": 400,
+      "name": "Mrs. Elaine Bruen",
+      "enable": true,
+      "federativeEntityId": 21,
+      "federativeEntityName": "Puebla",
+      "createDate": "2025-07-06T11:24:55.380Z",
+      "notaryNumber": 923,
+      "updateDate": "2026-03-18T04:48:31.900Z"
+    },
+    {
+      "id": 401,
+      "name": "Diane Keeling-Zulauf",
+      "enable": true,
+      "federativeEntityId": 12,
+      "federativeEntityName": "Guanajuato",
+      "createDate": "2026-01-02T07:32:14.380Z",
+      "notaryNumber": 763,
+      "updateDate": "2026-03-18T12:31:06.212Z"
+    },
+    {
+      "id": 402,
+      "name": "Angel Langosh MD",
+      "enable": true,
+      "federativeEntityId": 8,
+      "federativeEntityName": "Chihuahua",
+      "createDate": "2026-01-13T21:44:46.786Z",
+      "notaryNumber": 769,
+      "updateDate": "2026-03-18T09:21:45.060Z"
+    },
+    {
+      "id": 403,
+      "name": "Allison Weimann",
+      "enable": false,
+      "federativeEntityId": 28,
+      "federativeEntityName": "Tamaulipas",
+      "createDate": "2025-11-06T22:28:05.850Z",
+      "notaryNumber": 363,
+      "updateDate": "2026-03-18T09:41:03.793Z"
+    },
+    {
+      "id": 404,
+      "name": "Marco Bernhard",
+      "enable": false,
+      "federativeEntityId": 25,
+      "federativeEntityName": "San Luis Potosí",
+      "createDate": "2025-09-07T04:31:55.541Z",
+      "notaryNumber": 632,
+      "updateDate": "2026-03-18T14:26:32.590Z"
+    },
+    {
+      "id": 405,
+      "name": "Orville Littel",
+      "enable": true,
+      "federativeEntityId": 4,
+      "federativeEntityName": "Campeche",
+      "createDate": "2025-11-03T17:50:31.068Z",
+      "notaryNumber": 699,
+      "updateDate": "2026-03-17T22:54:30.248Z"
+    },
+    {
+      "id": 406,
+      "name": "Marion Cummings",
+      "enable": true,
+      "federativeEntityId": 2,
+      "federativeEntityName": "Baja California",
+      "createDate": "2025-07-15T20:10:28.333Z",
+      "notaryNumber": 994,
+      "updateDate": "2026-03-17T19:57:10.987Z"
+    },
+    {
+      "id": 407,
+      "name": "Matt King",
+      "enable": false,
+      "federativeEntityId": 10,
+      "federativeEntityName": "Durango",
+      "createDate": "2025-11-14T06:18:45.562Z",
+      "notaryNumber": 359,
+      "updateDate": "2026-03-18T04:44:59.983Z"
+    },
+    {
+      "id": 408,
+      "name": "Christian Kris",
+      "enable": false,
+      "federativeEntityId": 22,
+      "federativeEntityName": "Querétaro",
+      "createDate": "2025-03-26T09:35:04.601Z",
+      "notaryNumber": 749,
+      "updateDate": "2026-03-17T22:34:42.714Z"
+    },
+    {
+      "id": 409,
+      "name": "Dr. Dave Kautzer",
+      "enable": true,
+      "federativeEntityId": 15,
+      "federativeEntityName": "Estado de México",
+      "createDate": "2025-04-04T11:25:26.789Z",
+      "notaryNumber": 506,
+      "updateDate": "2026-03-18T11:00:06.501Z"
+    },
+    {
+      "id": 410,
+      "name": "Kim Johnston",
+      "enable": true,
+      "federativeEntityId": 25,
+      "federativeEntityName": "San Luis Potosí",
+      "createDate": "2025-10-16T20:21:04.751Z",
+      "notaryNumber": 256,
+      "updateDate": "2026-03-18T00:38:22.186Z"
+    },
+    {
+      "id": 411,
+      "name": "Courtney Green",
+      "enable": true,
+      "federativeEntityId": 10,
+      "federativeEntityName": "Durango",
+      "createDate": "2025-08-09T04:05:10.899Z",
+      "notaryNumber": 166,
+      "updateDate": "2026-03-17T19:11:12.294Z"
+    },
+    {
+      "id": 412,
+      "name": "Victoria Kling",
+      "enable": true,
+      "federativeEntityId": 29,
+      "federativeEntityName": "Tlaxcala",
+      "createDate": "2025-07-06T08:51:28.553Z",
+      "notaryNumber": 767,
+      "updateDate": "2026-03-18T03:13:30.595Z"
+    },
+    {
+      "id": 413,
+      "name": "Craig Bayer",
+      "enable": true,
+      "federativeEntityId": 5,
+      "federativeEntityName": "Coahuila de Zaragoza",
+      "createDate": "2025-10-15T08:30:23.043Z",
+      "notaryNumber": 265,
+      "updateDate": "2026-03-18T09:35:45.793Z"
+    },
+    {
+      "id": 414,
+      "name": "Miss Veronica Davis",
+      "enable": false,
+      "federativeEntityId": 19,
+      "federativeEntityName": "Nuevo León",
+      "createDate": "2026-02-26T02:22:59.747Z",
+      "notaryNumber": 362,
+      "updateDate": "2026-03-18T07:09:54.302Z"
+    },
+    {
+      "id": 415,
+      "name": "Duane Bechtelar",
+      "enable": true,
+      "federativeEntityId": 25,
+      "federativeEntityName": "San Luis Potosí",
+      "createDate": "2025-08-21T12:55:27.714Z",
+      "notaryNumber": 495,
+      "updateDate": "2026-03-18T11:17:46.834Z"
+    },
+    {
+      "id": 416,
+      "name": "Rex Kerluke",
+      "enable": false,
+      "federativeEntityId": 9,
+      "federativeEntityName": "Distrito Federal/CDMX",
+      "createDate": "2025-06-24T16:07:44.768Z",
+      "notaryNumber": 185,
+      "updateDate": "2026-03-18T05:03:20.102Z"
+    },
+    {
+      "id": 417,
+      "name": "Miss Bertha Langosh",
+      "enable": true,
+      "federativeEntityId": 20,
+      "federativeEntityName": "Oaxaca",
+      "createDate": "2025-04-29T01:28:47.544Z",
+      "notaryNumber": 898,
+      "updateDate": "2026-03-17T22:51:23.353Z"
+    },
+    {
+      "id": 418,
+      "name": "Edmond Hansen",
+      "enable": true,
+      "federativeEntityId": 31,
+      "federativeEntityName": "Yucatán",
+      "createDate": "2025-03-24T04:07:03.052Z",
+      "notaryNumber": 831,
+      "updateDate": "2026-03-18T11:24:48.958Z"
+    },
+    {
+      "id": 419,
+      "name": "Mitchell Ankunding",
+      "enable": true,
+      "federativeEntityId": 23,
+      "federativeEntityName": "Quintana Roo",
+      "createDate": "2025-10-06T20:36:56.085Z",
+      "notaryNumber": 372,
+      "updateDate": "2026-03-18T01:25:53.942Z"
+    },
+    {
+      "id": 420,
+      "name": "Becky Bahringer",
+      "enable": true,
+      "federativeEntityId": 25,
+      "federativeEntityName": "San Luis Potosí",
+      "createDate": "2025-11-01T18:59:51.011Z",
+      "notaryNumber": 558,
+      "updateDate": "2026-03-17T22:19:40.743Z"
+    },
+    {
+      "id": 421,
+      "name": "Louis Renner",
+      "enable": true,
+      "federativeEntityId": 26,
+      "federativeEntityName": "Sonora",
+      "createDate": "2025-09-25T08:39:20.709Z",
+      "notaryNumber": 824,
+      "updateDate": "2026-03-18T03:37:31.119Z"
+    },
+    {
+      "id": 422,
+      "name": "Olga Howe",
+      "enable": true,
+      "federativeEntityId": 10,
+      "federativeEntityName": "Durango",
+      "createDate": "2025-08-22T17:57:18.003Z",
+      "notaryNumber": 842,
+      "updateDate": "2026-03-18T16:37:40.054Z"
+    },
+    {
+      "id": 423,
+      "name": "Helen Feeney",
+      "enable": true,
+      "federativeEntityId": 18,
+      "federativeEntityName": "Nayarit",
+      "createDate": "2025-09-12T03:07:02.477Z",
+      "notaryNumber": 964,
+      "updateDate": "2026-03-17T19:10:16.981Z"
+    },
+    {
+      "id": 424,
+      "name": "Jackie Mosciski",
+      "enable": true,
+      "federativeEntityId": 18,
+      "federativeEntityName": "Nayarit",
+      "createDate": "2025-07-23T19:57:54.830Z",
+      "notaryNumber": 984,
+      "updateDate": "2026-03-18T13:57:48.597Z"
+    },
+    {
+      "id": 425,
+      "name": "Geoffrey Purdy IV",
+      "enable": true,
+      "federativeEntityId": 3,
+      "federativeEntityName": "Baja California Sur",
+      "createDate": "2025-07-15T09:22:34.452Z",
+      "notaryNumber": 241,
+      "updateDate": "2026-03-18T06:16:34.964Z"
+    },
+    {
+      "id": 426,
+      "name": "Donnie Oberbrunner",
+      "enable": true,
+      "federativeEntityId": 12,
+      "federativeEntityName": "Guanajuato",
+      "createDate": "2025-04-07T03:12:44.629Z",
+      "notaryNumber": 880,
+      "updateDate": "2026-03-18T03:52:38.423Z"
+    },
+    {
+      "id": 427,
+      "name": "Earl Greenholt",
+      "enable": false,
+      "federativeEntityId": 26,
+      "federativeEntityName": "Sonora",
+      "createDate": "2026-03-13T06:37:53.575Z",
+      "notaryNumber": 285,
+      "updateDate": "2026-03-18T03:22:51.300Z"
+    },
+    {
+      "id": 428,
+      "name": "Johnathan Bednar-Corkery",
+      "enable": true,
+      "federativeEntityId": 18,
+      "federativeEntityName": "Nayarit",
+      "createDate": "2025-07-09T00:56:49.904Z",
+      "notaryNumber": 901,
+      "updateDate": "2026-03-18T03:53:35.643Z"
+    },
+    {
+      "id": 429,
+      "name": "Robin Altenwerth",
+      "enable": true,
+      "federativeEntityId": 2,
+      "federativeEntityName": "Baja California",
+      "createDate": "2025-07-03T22:00:25.610Z",
+      "notaryNumber": 174,
+      "updateDate": "2026-03-18T17:18:28.174Z"
+    },
+    {
+      "id": 430,
+      "name": "Ana McCullough",
+      "enable": false,
+      "federativeEntityId": 29,
+      "federativeEntityName": "Tlaxcala",
+      "createDate": "2025-10-28T11:54:53.806Z",
+      "notaryNumber": 856,
+      "updateDate": "2026-03-18T14:00:43.550Z"
+    },
+    {
+      "id": 431,
+      "name": "Shawna Flatley MD",
+      "enable": true,
+      "federativeEntityId": 8,
+      "federativeEntityName": "Chihuahua",
+      "createDate": "2025-03-23T06:42:09.965Z",
+      "notaryNumber": 472,
+      "updateDate": "2026-03-17T20:36:29.728Z"
+    },
+    {
+      "id": 432,
+      "name": "Mr. Manuel Kertzmann",
+      "enable": false,
+      "federativeEntityId": 1,
+      "federativeEntityName": "Aguascalientes",
+      "createDate": "2025-09-23T13:49:15.637Z",
+      "notaryNumber": 928,
+      "updateDate": "2026-03-18T16:27:02.011Z"
+    },
+    {
+      "id": 433,
+      "name": "Andrea O'Keefe",
+      "enable": true,
+      "federativeEntityId": 20,
+      "federativeEntityName": "Oaxaca",
+      "createDate": "2025-10-20T19:12:12.291Z",
+      "notaryNumber": 319,
+      "updateDate": "2026-03-18T15:36:35.633Z"
+    },
+    {
+      "id": 434,
+      "name": "Marlon Armstrong",
+      "enable": false,
+      "federativeEntityId": 7,
+      "federativeEntityName": "Chiapas",
+      "createDate": "2025-03-24T04:32:58.857Z",
+      "notaryNumber": 433,
+      "updateDate": "2026-03-17T18:34:47.978Z"
+    },
+    {
+      "id": 435,
+      "name": "Samantha Swift V",
+      "enable": true,
+      "federativeEntityId": 18,
+      "federativeEntityName": "Nayarit",
+      "createDate": "2025-04-13T03:33:45.554Z",
+      "notaryNumber": 52,
+      "updateDate": "2026-03-18T09:04:17.963Z"
+    },
+    {
+      "id": 436,
+      "name": "Shannon Konopelski-Fahey",
+      "enable": true,
+      "federativeEntityId": 23,
+      "federativeEntityName": "Quintana Roo",
+      "createDate": "2025-09-16T10:54:56.417Z",
+      "notaryNumber": 680,
+      "updateDate": "2026-03-17T23:57:47.870Z"
+    },
+    {
+      "id": 437,
+      "name": "Lillie Berge",
+      "enable": false,
+      "federativeEntityId": 20,
+      "federativeEntityName": "Oaxaca",
+      "createDate": "2025-04-02T17:17:02.823Z",
+      "notaryNumber": 853,
+      "updateDate": "2026-03-18T12:25:16.108Z"
+    },
+    {
+      "id": 438,
+      "name": "Ms. Dora Rosenbaum DDS",
+      "enable": true,
+      "federativeEntityId": 1,
+      "federativeEntityName": "Aguascalientes",
+      "createDate": "2025-12-11T06:25:24.691Z",
+      "notaryNumber": 42,
+      "updateDate": "2026-03-18T06:18:14.628Z"
+    },
+    {
+      "id": 439,
+      "name": "Pedro Gislason",
+      "enable": true,
+      "federativeEntityId": 12,
+      "federativeEntityName": "Guanajuato",
+      "createDate": "2025-11-06T10:44:37.741Z",
+      "notaryNumber": 158,
+      "updateDate": "2026-03-18T03:59:53.176Z"
+    },
+    {
+      "id": 440,
+      "name": "Mr. Angelo Sauer II",
+      "enable": true,
+      "federativeEntityId": 29,
+      "federativeEntityName": "Tlaxcala",
+      "createDate": "2025-05-24T20:13:57.898Z",
+      "notaryNumber": 503,
+      "updateDate": "2026-03-18T12:58:18.828Z"
+    },
+    {
+      "id": 441,
+      "name": "Erick Mayer",
+      "enable": false,
+      "federativeEntityId": 14,
+      "federativeEntityName": "Jalisco",
+      "createDate": "2025-11-02T01:44:02.357Z",
+      "notaryNumber": 950,
+      "updateDate": "2026-03-18T10:08:44.950Z"
+    },
+    {
+      "id": 442,
+      "name": "May Goldner-Little",
+      "enable": true,
+      "federativeEntityId": 5,
+      "federativeEntityName": "Coahuila de Zaragoza",
+      "createDate": "2025-05-07T04:29:24.875Z",
+      "notaryNumber": 804,
+      "updateDate": "2026-03-18T10:00:52.640Z"
+    },
+    {
+      "id": 443,
+      "name": "Jerry Satterfield",
+      "enable": true,
+      "federativeEntityId": 16,
+      "federativeEntityName": "Michoacan",
+      "createDate": "2025-12-18T21:08:11.817Z",
+      "notaryNumber": 604,
+      "updateDate": "2026-03-18T08:11:03.360Z"
+    },
+    {
+      "id": 444,
+      "name": "Harriet Krajcik DVM",
+      "enable": true,
+      "federativeEntityId": 26,
+      "federativeEntityName": "Sonora",
+      "createDate": "2025-05-27T11:52:23.168Z",
+      "notaryNumber": 783,
+      "updateDate": "2026-03-18T11:08:42.944Z"
+    },
+    {
+      "id": 445,
+      "name": "Lamar Walker",
+      "enable": true,
+      "federativeEntityId": 21,
+      "federativeEntityName": "Puebla",
+      "createDate": "2025-05-18T10:29:29.089Z",
+      "notaryNumber": 811,
+      "updateDate": "2026-03-18T05:33:18.424Z"
+    },
+    {
+      "id": 446,
+      "name": "Edmund Adams",
+      "enable": true,
+      "federativeEntityId": 5,
+      "federativeEntityName": "Coahuila de Zaragoza",
+      "createDate": "2025-03-28T08:05:08.122Z",
+      "notaryNumber": 257,
+      "updateDate": "2026-03-18T11:49:35.040Z"
+    },
+    {
+      "id": 447,
+      "name": "Heidi Predovic",
+      "enable": true,
+      "federativeEntityId": 29,
+      "federativeEntityName": "Tlaxcala",
+      "createDate": "2025-09-03T01:47:50.061Z",
+      "notaryNumber": 452,
+      "updateDate": "2026-03-18T15:15:01.817Z"
+    },
+    {
+      "id": 448,
+      "name": "Lois Hilll",
+      "enable": true,
+      "federativeEntityId": 20,
+      "federativeEntityName": "Oaxaca",
+      "createDate": "2025-11-17T10:03:37.307Z",
+      "notaryNumber": 985,
+      "updateDate": "2026-03-18T05:42:20.061Z"
+    },
+    {
+      "id": 449,
+      "name": "Ms. Nichole Quitzon Sr.",
+      "enable": true,
+      "federativeEntityId": 6,
+      "federativeEntityName": "Colima",
+      "createDate": "2025-09-04T01:18:14.134Z",
+      "notaryNumber": 483,
+      "updateDate": "2026-03-18T14:48:21.480Z"
+    },
+    {
+      "id": 450,
+      "name": "Johnnie Bosco",
+      "enable": true,
+      "federativeEntityId": 32,
+      "federativeEntityName": "Zacatecas",
+      "createDate": "2025-04-09T16:28:18.188Z",
+      "notaryNumber": 509,
+      "updateDate": "2026-03-18T14:47:05.382Z"
+    },
+    {
+      "id": 451,
+      "name": "Maurice Homenick",
+      "enable": false,
+      "federativeEntityId": 2,
+      "federativeEntityName": "Baja California",
+      "createDate": "2025-12-12T05:08:10.288Z",
+      "notaryNumber": 802,
+      "updateDate": "2026-03-18T15:42:10.460Z"
+    },
+    {
+      "id": 452,
+      "name": "Debra Jast",
+      "enable": true,
+      "federativeEntityId": 19,
+      "federativeEntityName": "Nuevo León",
+      "createDate": "2025-07-04T17:22:21.419Z",
+      "notaryNumber": 334,
+      "updateDate": "2026-03-18T06:30:00.157Z"
+    },
+    {
+      "id": 453,
+      "name": "Garrett Hayes II",
+      "enable": true,
+      "federativeEntityId": 13,
+      "federativeEntityName": "Hidalgo",
+      "createDate": "2025-10-09T20:57:43.731Z",
+      "notaryNumber": 34,
+      "updateDate": "2026-03-18T03:47:11.590Z"
+    },
+    {
+      "id": 454,
+      "name": "Preston Hills",
+      "enable": true,
+      "federativeEntityId": 31,
+      "federativeEntityName": "Yucatán",
+      "createDate": "2025-10-04T19:00:47.922Z",
+      "notaryNumber": 227,
+      "updateDate": "2026-03-18T12:14:29.133Z"
+    },
+    {
+      "id": 455,
+      "name": "Danielle Botsford",
+      "enable": true,
+      "federativeEntityId": 21,
+      "federativeEntityName": "Puebla",
+      "createDate": "2026-03-11T20:03:55.578Z",
+      "notaryNumber": 747,
+      "updateDate": "2026-03-18T07:21:25.873Z"
+    },
+    {
+      "id": 456,
+      "name": "Regina Collier",
+      "enable": false,
+      "federativeEntityId": 16,
+      "federativeEntityName": "Michoacan",
+      "createDate": "2025-11-27T15:15:58.310Z",
+      "notaryNumber": 404,
+      "updateDate": "2026-03-18T02:33:23.095Z"
+    },
+    {
+      "id": 457,
+      "name": "Trevor Sipes",
+      "enable": true,
+      "federativeEntityId": 17,
+      "federativeEntityName": "Morelos",
+      "createDate": "2025-12-25T21:53:41.686Z",
+      "notaryNumber": 644,
+      "updateDate": "2026-03-17T18:09:33.269Z"
+    },
+    {
+      "id": 458,
+      "name": "Miss Shirley Collins",
+      "enable": true,
+      "federativeEntityId": 23,
+      "federativeEntityName": "Quintana Roo",
+      "createDate": "2025-08-28T21:10:34.195Z",
+      "notaryNumber": 272,
+      "updateDate": "2026-03-18T15:50:43.003Z"
+    },
+    {
+      "id": 459,
+      "name": "Mr. Rickey Mann",
+      "enable": true,
+      "federativeEntityId": 4,
+      "federativeEntityName": "Campeche",
+      "createDate": "2026-01-22T15:27:06.898Z",
+      "notaryNumber": 44,
+      "updateDate": "2026-03-18T05:29:56.459Z"
+    },
+    {
+      "id": 460,
+      "name": "Ida Marks",
+      "enable": true,
+      "federativeEntityId": 7,
+      "federativeEntityName": "Chiapas",
+      "createDate": "2025-10-12T14:59:46.926Z",
+      "notaryNumber": 425,
+      "updateDate": "2026-03-18T17:05:03.682Z"
+    },
+    {
+      "id": 461,
+      "name": "Gerardo Price-Watsica",
+      "enable": true,
+      "federativeEntityId": 22,
+      "federativeEntityName": "Querétaro",
+      "createDate": "2025-12-23T14:00:52.633Z",
+      "notaryNumber": 726,
+      "updateDate": "2026-03-18T00:19:47.571Z"
+    },
+    {
+      "id": 462,
+      "name": "Kathryn Stracke I",
+      "enable": true,
+      "federativeEntityId": 33,
+      "federativeEntityName": "EntidadMel edit",
+      "createDate": "2025-08-10T05:15:02.503Z",
+      "notaryNumber": 54,
+      "updateDate": "2026-03-18T11:41:29.147Z"
+    },
+    {
+      "id": 463,
+      "name": "Edwin McGlynn",
+      "enable": true,
+      "federativeEntityId": 4,
+      "federativeEntityName": "Campeche",
+      "createDate": "2025-10-25T21:13:42.146Z",
+      "notaryNumber": 257,
+      "updateDate": "2026-03-18T09:42:26.589Z"
+    },
+    {
+      "id": 464,
+      "name": "Isabel Veum",
+      "enable": true,
+      "federativeEntityId": 13,
+      "federativeEntityName": "Hidalgo",
+      "createDate": "2026-01-10T19:21:29.026Z",
+      "notaryNumber": 794,
+      "updateDate": "2026-03-18T14:16:14.985Z"
+    },
+    {
+      "id": 465,
+      "name": "Glen Connelly IV",
+      "enable": false,
+      "federativeEntityId": 14,
+      "federativeEntityName": "Jalisco",
+      "createDate": "2025-06-07T13:38:12.558Z",
+      "notaryNumber": 199,
+      "updateDate": "2026-03-18T17:46:01.962Z"
+    },
+    {
+      "id": 466,
+      "name": "Ms. Stacy Price",
+      "enable": true,
+      "federativeEntityId": 29,
+      "federativeEntityName": "Tlaxcala",
+      "createDate": "2025-12-12T17:53:34.601Z",
+      "notaryNumber": 452,
+      "updateDate": "2026-03-17T23:02:01.501Z"
+    },
+    {
+      "id": 467,
+      "name": "Charles Sanford",
+      "enable": true,
+      "federativeEntityId": 8,
+      "federativeEntityName": "Chihuahua",
+      "createDate": "2025-12-31T09:21:39.280Z",
+      "notaryNumber": 102,
+      "updateDate": "2026-03-18T15:43:44.710Z"
+    },
+    {
+      "id": 468,
+      "name": "Benjamin Kertzmann",
+      "enable": true,
+      "federativeEntityId": 4,
+      "federativeEntityName": "Campeche",
+      "createDate": "2026-03-05T03:39:52.355Z",
+      "notaryNumber": 801,
+      "updateDate": "2026-03-17T19:42:01.278Z"
+    },
+    {
+      "id": 469,
+      "name": "Mr. Ben Schuster",
+      "enable": false,
+      "federativeEntityId": 18,
+      "federativeEntityName": "Nayarit",
+      "createDate": "2025-06-06T20:58:47.527Z",
+      "notaryNumber": 279,
+      "updateDate": "2026-03-17T22:24:35.637Z"
+    },
+    {
+      "id": 470,
+      "name": "Dr. Tammy Champlin",
+      "enable": true,
+      "federativeEntityId": 32,
+      "federativeEntityName": "Zacatecas",
+      "createDate": "2025-06-21T18:12:19.843Z",
+      "notaryNumber": 509,
+      "updateDate": "2026-03-17T19:45:03.579Z"
+    },
+    {
+      "id": 471,
+      "name": "Nichole Dare",
+      "enable": false,
+      "federativeEntityId": 25,
+      "federativeEntityName": "San Luis Potosí",
+      "createDate": "2025-11-25T04:35:17.772Z",
+      "notaryNumber": 487,
+      "updateDate": "2026-03-18T13:08:23.830Z"
+    },
+    {
+      "id": 472,
+      "name": "Darrin Blanda",
+      "enable": true,
+      "federativeEntityId": 3,
+      "federativeEntityName": "Baja California Sur",
+      "createDate": "2026-01-15T22:39:49.875Z",
+      "notaryNumber": 684,
+      "updateDate": "2026-03-18T13:38:15.336Z"
+    },
+    {
+      "id": 473,
+      "name": "Sophia Tremblay",
+      "enable": true,
+      "federativeEntityId": 5,
+      "federativeEntityName": "Coahuila de Zaragoza",
+      "createDate": "2025-09-22T09:33:08.429Z",
+      "notaryNumber": 537,
+      "updateDate": "2026-03-18T08:38:42.499Z"
+    },
+    {
+      "id": 474,
+      "name": "Ronald Kshlerin",
+      "enable": true,
+      "federativeEntityId": 24,
+      "federativeEntityName": "Sinaloa",
+      "createDate": "2025-08-19T23:05:10.274Z",
+      "notaryNumber": 207,
+      "updateDate": "2026-03-18T15:42:06.324Z"
+    },
+    {
+      "id": 475,
+      "name": "Douglas Schmeler",
+      "enable": true,
+      "federativeEntityId": 11,
+      "federativeEntityName": "Guerrero",
+      "createDate": "2026-03-10T06:19:08.060Z",
+      "notaryNumber": 326,
+      "updateDate": "2026-03-18T03:30:04.607Z"
+    },
+    {
+      "id": 476,
+      "name": "Brent Jaskolski",
+      "enable": true,
+      "federativeEntityId": 19,
+      "federativeEntityName": "Nuevo León",
+      "createDate": "2025-12-14T00:52:00.039Z",
+      "notaryNumber": 519,
+      "updateDate": "2026-03-18T16:53:05.855Z"
+    },
+    {
+      "id": 477,
+      "name": "Meghan Bailey",
+      "enable": true,
+      "federativeEntityId": 19,
+      "federativeEntityName": "Nuevo León",
+      "createDate": "2025-09-09T15:16:08.926Z",
+      "notaryNumber": 84,
+      "updateDate": "2026-03-18T10:28:08.943Z"
+    },
+    {
+      "id": 478,
+      "name": "Rochelle D'Amore-White II",
+      "enable": true,
+      "federativeEntityId": 6,
+      "federativeEntityName": "Colima",
+      "createDate": "2025-06-12T04:24:08.162Z",
+      "notaryNumber": 637,
+      "updateDate": "2026-03-18T14:16:08.997Z"
+    },
+    {
+      "id": 479,
+      "name": "Darin Wolf",
+      "enable": true,
+      "federativeEntityId": 15,
+      "federativeEntityName": "Estado de México",
+      "createDate": "2025-11-29T09:33:08.194Z",
+      "notaryNumber": 555,
+      "updateDate": "2026-03-18T00:35:00.388Z"
+    },
+    {
+      "id": 480,
+      "name": "Alfonso Grimes",
+      "enable": true,
+      "federativeEntityId": 28,
+      "federativeEntityName": "Tamaulipas",
+      "createDate": "2025-07-12T18:22:57.365Z",
+      "notaryNumber": 403,
+      "updateDate": "2026-03-18T00:23:20.277Z"
+    },
+    {
+      "id": 481,
+      "name": "Nancy Batz",
+      "enable": true,
+      "federativeEntityId": 27,
+      "federativeEntityName": "Tabasco",
+      "createDate": "2025-11-09T04:15:56.174Z",
+      "notaryNumber": 386,
+      "updateDate": "2026-03-18T15:49:24.199Z"
+    },
+    {
+      "id": 482,
+      "name": "Victor Mante",
+      "enable": true,
+      "federativeEntityId": 5,
+      "federativeEntityName": "Coahuila de Zaragoza",
+      "createDate": "2025-07-11T20:26:11.068Z",
+      "notaryNumber": 617,
+      "updateDate": "2026-03-18T11:44:56.435Z"
+    },
+    {
+      "id": 483,
+      "name": "Tabitha Robel",
+      "enable": true,
+      "federativeEntityId": 31,
+      "federativeEntityName": "Yucatán",
+      "createDate": "2025-04-11T11:39:58.384Z",
+      "notaryNumber": 9,
+      "updateDate": "2026-03-18T00:18:12.337Z"
+    },
+    {
+      "id": 484,
+      "name": "Angelo Bartoletti",
+      "enable": true,
+      "federativeEntityId": 27,
+      "federativeEntityName": "Tabasco",
+      "createDate": "2025-05-15T23:35:46.203Z",
+      "notaryNumber": 901,
+      "updateDate": "2026-03-17T19:44:27.504Z"
+    },
+    {
+      "id": 485,
+      "name": "Wendell Grady",
+      "enable": true,
+      "federativeEntityId": 25,
+      "federativeEntityName": "San Luis Potosí",
+      "createDate": "2025-10-17T20:06:19.079Z",
+      "notaryNumber": 485,
+      "updateDate": "2026-03-18T07:31:49.843Z"
+    },
+    {
+      "id": 486,
+      "name": "Olivia Volkman",
+      "enable": true,
+      "federativeEntityId": 2,
+      "federativeEntityName": "Baja California",
+      "createDate": "2025-04-06T12:02:28.343Z",
+      "notaryNumber": 60,
+      "updateDate": "2026-03-18T13:26:20.216Z"
+    },
+    {
+      "id": 487,
+      "name": "Archie Volkman",
+      "enable": true,
+      "federativeEntityId": 7,
+      "federativeEntityName": "Chiapas",
+      "createDate": "2025-06-15T05:59:48.299Z",
+      "notaryNumber": 734,
+      "updateDate": "2026-03-18T03:57:24.474Z"
+    },
+    {
+      "id": 488,
+      "name": "Ms. Marlene Kshlerin I",
+      "enable": true,
+      "federativeEntityId": 29,
+      "federativeEntityName": "Tlaxcala",
+      "createDate": "2026-03-13T17:08:23.105Z",
+      "notaryNumber": 261,
+      "updateDate": "2026-03-17T17:56:39.313Z"
+    },
+    {
+      "id": 489,
+      "name": "Misty Cremin",
+      "enable": false,
+      "federativeEntityId": 19,
+      "federativeEntityName": "Nuevo León",
+      "createDate": "2025-12-19T11:56:43.423Z",
+      "notaryNumber": 933,
+      "updateDate": "2026-03-18T08:40:47.017Z"
+    },
+    {
+      "id": 490,
+      "name": "Ernest Carter",
+      "enable": true,
+      "federativeEntityId": 27,
+      "federativeEntityName": "Tabasco",
+      "createDate": "2025-09-30T12:14:02.282Z",
+      "notaryNumber": 706,
+      "updateDate": "2026-03-18T09:27:14.355Z"
+    },
+    {
+      "id": 491,
+      "name": "Felipe Lindgren",
+      "enable": true,
+      "federativeEntityId": 25,
+      "federativeEntityName": "San Luis Potosí",
+      "createDate": "2025-04-05T02:51:42.645Z",
+      "notaryNumber": 811,
+      "updateDate": "2026-03-17T23:30:35.483Z"
+    },
+    {
+      "id": 492,
+      "name": "Troy Stiedemann",
+      "enable": true,
+      "federativeEntityId": 24,
+      "federativeEntityName": "Sinaloa",
+      "createDate": "2025-08-06T02:28:25.715Z",
+      "notaryNumber": 126,
+      "updateDate": "2026-03-18T03:50:49.101Z"
+    },
+    {
+      "id": 493,
+      "name": "Anthony Kshlerin",
+      "enable": true,
+      "federativeEntityId": 18,
+      "federativeEntityName": "Nayarit",
+      "createDate": "2025-08-20T05:30:20.221Z",
+      "notaryNumber": 73,
+      "updateDate": "2026-03-17T20:14:38.589Z"
+    },
+    {
+      "id": 494,
+      "name": "Carmen Lubowitz",
+      "enable": true,
+      "federativeEntityId": 21,
+      "federativeEntityName": "Puebla",
+      "createDate": "2025-09-24T13:46:21.370Z",
+      "notaryNumber": 689,
+      "updateDate": "2026-03-18T06:13:40.523Z"
+    },
+    {
+      "id": 495,
+      "name": "Randal Kozey",
+      "enable": true,
+      "federativeEntityId": 33,
+      "federativeEntityName": "EntidadMel edit",
+      "createDate": "2025-06-28T11:05:58.178Z",
+      "notaryNumber": 75,
+      "updateDate": "2026-03-18T09:25:52.306Z"
+    },
+    {
+      "id": 496,
+      "name": "Dr. Spencer Cummerata",
+      "enable": true,
+      "federativeEntityId": 7,
+      "federativeEntityName": "Chiapas",
+      "createDate": "2025-07-25T00:28:00.735Z",
+      "notaryNumber": 44,
+      "updateDate": "2026-03-18T06:35:25.784Z"
+    },
+    {
+      "id": 497,
+      "name": "Erick Reynolds",
+      "enable": true,
+      "federativeEntityId": 18,
+      "federativeEntityName": "Nayarit",
+      "createDate": "2026-03-11T00:10:28.799Z",
+      "notaryNumber": 794,
+      "updateDate": "2026-03-18T16:39:48.242Z"
+    },
+    {
+      "id": 498,
+      "name": "Dr. Ebony Gorczany",
+      "enable": false,
+      "federativeEntityId": 6,
+      "federativeEntityName": "Colima",
+      "createDate": "2025-07-28T12:29:35.298Z",
+      "notaryNumber": 752,
+      "updateDate": "2026-03-18T15:49:55.848Z"
+    },
+    {
+      "id": 499,
+      "name": "Isaac Morar",
+      "enable": true,
+      "federativeEntityId": 9,
+      "federativeEntityName": "Distrito Federal/CDMX",
+      "createDate": "2025-04-06T10:46:15.522Z",
+      "notaryNumber": 61,
+      "updateDate": "2026-03-17T22:56:28.405Z"
+    },
+    {
+      "id": 500,
+      "name": "Willie Wisoky DVM",
+      "enable": true,
+      "federativeEntityId": 21,
+      "federativeEntityName": "Puebla",
+      "createDate": "2025-06-12T02:02:41.852Z",
+      "notaryNumber": 70,
+      "updateDate": "2026-03-18T06:38:23.630Z"
+    }
   ]
 }
