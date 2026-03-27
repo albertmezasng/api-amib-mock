@@ -118,24 +118,45 @@ router.get("/catalog-type", async (req, res) => {
       id: 1,
       code: "Certificaciones",
       enable: true,
+      description: "Certificaciones",
+      extension: {
+        labelName: "Estatus",
+        hasExtCode: false,
+      },
       createDate: "",
     },
     {
       id: 2,
       code: "Autorizaciones",
       enable: true,
+      description: "Autorizaciones",
+      extension: {
+        labelName: "Estatus",
+        hasExtCode: false,
+      },
       createDate: "",
     },
     {
       id: 3,
       code: "Estatus de envío",
       enable: true,
+      description: "Estatus de envío",
+      extension: {
+        labelName: "Estatus",
+        hasExtCode: false,
+      },
       createDate: "",
     },
     {
       id: 4,
       code: "Causas de expiración",
       enable: true,
+      description: "Causas de expiración",
+      extension: {
+        labelName: "Causa",
+        hasExtCode: true,
+        extCodeName: "ID CNBV",
+      },
       createDate: "",
     },
   ];
@@ -148,6 +169,7 @@ let catalogs = [
     catalogTypeId: 1,
     description: "Este esjnssadh bsahasbhsaksakdasbkh",
     enable: true,
+    extCode: null,
     createDate: "",
     updateDate: "",
   },
@@ -157,7 +179,8 @@ let catalogs = [
     catalogTypeId: 2,
     description: "Este esjnssadh bsahasbhsaksakdasbkh",
     enable: true,
-    createDate: "",
+    extCode: "",
+    createDate: null,
     updateDate: "",
   },
   {
@@ -166,7 +189,8 @@ let catalogs = [
     catalogTypeId: 3,
     description: "Este esjnssadh bsahasbhsaksakdasbkh",
     enable: true,
-    createDate: "",
+    extCode: "",
+    createDate: null,
     updateDate: "",
   },
   {
@@ -175,6 +199,7 @@ let catalogs = [
     catalogTypeId: 1,
     description: "Este esjnssadh bsahasbhsaksakdasbkh",
     enable: true,
+    extCode: null,
     createDate: "",
     updateDate: "",
   },
@@ -184,6 +209,7 @@ let catalogs = [
     catalogTypeId: 4,
     description: "Este esjnssadh bsahasbhsaksakdasbkh",
     enable: true,
+    extCode: "1239",
     createDate: "",
     updateDate: "",
   },
@@ -236,7 +262,7 @@ router.patch("/catalog/:id", (req, res) => {
     const { id } = req.params;
     const body = req.body;
 
-    const index = catalogs.findIndex(c => c.id === Number(id));
+    const index = catalogs.findIndex((c) => c.id === Number(id));
 
     if (index === -1) {
       return res.status(404).json({
