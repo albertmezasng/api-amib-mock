@@ -122,5 +122,96 @@ router.patch('/notary/:id', async(req,res) => {
     })
 })
 
+router.get('/figures/authorization', (req, res) => {
+    const page = parseInt(req.query.page, 10) || 1;
+    const limit = parseInt(req.query.limit, 10) || 5;
+
+    const cnbvFiguresByGroup = {
+        AI: [
+            {
+                id: 1,
+                cnbvName:
+                    'Asesor de Estrategias de Inversión / Apoderado para celebrar operaciones de Arbitraje Internacional',
+                cnbvId: 14,
+                legend:
+                    'Apoderado para celebrar operaciones, promover y asesorar a través de intermediarios financieros.',
+                isVigent: true,
+            },
+            {
+                id: 2,
+                cnbvName: 'Asesor de Estrategias de Inversión',
+                cnbvId: 3,
+                legend: 'Serie 210',
+                isVigent: false,
+            },
+        ],
+        PFI: [
+            {
+                id: 3,
+                cnbvName: 'Promotor de Fondos de Inversión',
+                cnbvId: 5,
+                legend: 'Serie 100',
+                isVigent: true,
+            },
+        ],
+        PV: [
+            {
+                id: 4,
+                cnbvName: 'Promotor de Valores en Mercado Primario',
+                cnbvId: 8,
+                legend: 'Serie 200 — Mercado Primario',
+                isVigent: true,
+            },
+            {
+                id: 5,
+                cnbvName: 'Promotor de Valores en Mercado Secundario',
+                cnbvId: 9,
+                legend: 'Serie 200 — Mercado Secundario',
+                isVigent: false,
+            },
+        ],
+    };
+
+    const fixedFigures = [
+        { id: 1, acronym: 'AI', name: 'Asesor en Estrategias de Inversión (Serie 210)', enable: true, figures: cnbvFiguresByGroup.AI },
+        { id: 2, acronym: 'PFI', name: 'Promotor de Fondos de INVERSIÓN (Serie 100)', enable: true, figures: cnbvFiguresByGroup.PFI },
+        { id: 3, acronym: 'PV', name: 'Promotor de Valores (Serie 200)', enable: true, figures: cnbvFiguresByGroup.PV },
+        { id: 4, acronym: 'EAC', name: 'Ejecutivo de Atención a Clientes (Serie 120)', enable: true, figures: [] },
+        { id: 5, acronym: 'OFI', name: 'Operador de Fondos de Inversión', enable: false, figures: [] },
+        { id: 6, acronym: 'DG', name: 'Director General de Casa de Bolsa', enable: true, figures: [] },
+        { id: 7, acronym: 'OC', name: 'Oficial de Cumplimiento', enable: true, figures: [] },
+        { id: 8, acronym: 'RL', name: 'Representante Legal', enable: false, figures: [] },
+        { id: 9, acronym: 'RMR', name: 'Representante para Manejo de Recursos', enable: true, figures: [] },
+        { id: 10, acronym: 'ACV', name: 'Asesor en Certificación de Valores (Serie 250)', enable: true, figures: [] },
+        { id: 11, acronym: 'OD', name: 'Operador de Derivados (Serie 300)', enable: true, figures: [] },
+        { id: 12, acronym: 'APF', name: 'Asesor en Planeación Financiera', enable: false, figures: [] },
+        { id: 13, acronym: 'CM', name: 'Corredor de Mercado de Capitales', enable: true, figures: [] },
+        { id: 14, acronym: 'AGF', name: 'Administrador de Gestión de Fondos', enable: true, figures: [] },
+        { id: 15, acronym: 'CE', name: 'Consultor de Estrategias Bursátiles', enable: true, figures: [] },
+        { id: 16, acronym: 'AIP', name: 'Asesor de Inversión Patrimonial', enable: false, figures: [] },
+        { id: 17, acronym: 'NCV', name: 'Negociador de Carteras de Valores', enable: true, figures: [] },
+        { id: 18, acronym: 'EIF', name: 'Especialista en Instrumentos de Financiamiento', enable: true, figures: [] },
+        { id: 19, acronym: 'PDE', name: 'Promotor de Derivados y Estructurados (Serie 400)', enable: true, figures: [] },
+        { id: 20, acronym: 'GRP', name: 'Gestor de Riesgos de Portafolio', enable: true, figures: [] },
+        { id: 21, acronym: 'ASG', name: 'Asesor de Sostenibilidad y Gobierno Corporativo', enable: false, figures: [] },
+        { id: 22, acronym: 'CMB', name: 'Corredor de Mercado de Bonos', enable: true, figures: [] },
+        { id: 23, acronym: 'TAB', name: 'Técnico en Análisis Bursátil', enable: true, figures: [] },
+    ];
+
+    const totalItems = fixedFigures.length;
+    const totalPages = Math.ceil(totalItems / limit);
+    const start = (page - 1) * limit;
+    const pageData = fixedFigures.slice(start, start + limit);
+
+    res.json({
+        statusCode: 200,
+        data: {
+            page,
+            totalPages,
+            totalItems,
+            data: pageData,
+        },
+    });
+});
 
 export default router;

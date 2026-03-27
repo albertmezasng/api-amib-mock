@@ -9,6 +9,7 @@ import recordRouter from './record.js';
 import productRouter from './product.js';
 import closeAplicationsDays from './closeAplicationsDays.js';
 import examRouter from './exam.js';
+import figuresRouter from './figures.js';
 
 
 import { connectDB } from './database.js';
@@ -35,6 +36,7 @@ app.use('/product', productRouter);
 app.use('/exam', examRouter);
 app.use('/planning/close-aplication',  closeAplicationsDays);
 
+app.use('/product', figuresRouter);
 app.listen(port, () => {
   console.log(`[server]: Server is running at http://localhost:${port}`);
 });
