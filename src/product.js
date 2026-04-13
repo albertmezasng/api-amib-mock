@@ -994,5 +994,4 @@ router.patch('/notary/:id', async(req,res) => {
     }
 })
 
-
 export default router;
