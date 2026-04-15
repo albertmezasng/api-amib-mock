@@ -10,6 +10,7 @@ import productRouter from './product.js';
 import closeAplicationsDays from './closeAplicationsDays.js';
 import examRouter from './exam.js';
 import figuresRouter from './figures.js';
+import s3MockRouter from './s3Mock.js';
 
 
 import { connectDB } from './database.js';
@@ -35,6 +36,7 @@ app.use('/record', recordRouter);
 app.use('/product', productRouter);
 app.use('/exam', examRouter);
 app.use('/planning/close-aplication',  closeAplicationsDays);
+app.use('/s3-mock', s3MockRouter);
 
 app.use('/product', figuresRouter);
 app.listen(port, () => {

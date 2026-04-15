@@ -16,7 +16,8 @@
     "dotenv": "^16.3.1",
     "express": "^5.0.0",
     "json-server": "^1.0.0-beta.3",
-    "lowdb": "^7.0.1"
+    "lowdb": "^7.0.1",
+    "multer": "^2.1.1"
   },
   "devDependencies": {
     "@faker-js/faker": "^8.4.1",

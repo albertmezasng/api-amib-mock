@@ -42,6 +42,7 @@ export const connectDB = async () => {
         validations: [],
         typeExam: [],
         closeDays:[],
+        recordServices: [],
     };
     const file = join(__dirname, '../db.json');
     console.log(file);
@@ -50,6 +51,10 @@ export const connectDB = async () => {
     console.log(db);
     await db.read();
     db.data ||= defaultData;
+    db.data = {
+        ...defaultData,
+        ...db.data,
+    };
     await db.write();
 }
 
