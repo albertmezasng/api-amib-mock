@@ -129,6 +129,16 @@ const getRecordDocumentTemplates = (service) => {
             advise: 'PDF (max. 5MB)',
             enable: true,
         },
+        {
+            id: 2,
+            name: 'Documento de Identificacion 2',
+            type: 'pdf',
+            required: true,
+            numViews: 1,
+            header: 'Documento de Identificacion 2',
+            advise: 'PDF (max. 5MB)',
+            enable: true,
+        },
     ];
 };
 
