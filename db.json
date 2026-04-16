@@ -183,6 +183,7 @@
       "typeCalendar": 1
     }
   ],
+  "recordServices": [],
   "notaries": [
     {
       "id": 1,
@@ -227,12 +228,12 @@
     {
       "id": 5,
       "name": "Mrs. Vicky Swift",
-      "enable": false,
+      "enable": true,
       "federativeEntityId": 3,
       "federativeEntityName": "Baja California Sur",
       "createDate": "2026-02-11T00:39:48.261Z",
       "notaryNumber": 4,
-      "updateDate": "2026-03-25T20:11:02.848Z"
+      "updateDate": "2026-03-31T23:05:34.466Z"
     },
     {
       "id": 6,
