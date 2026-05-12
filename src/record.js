@@ -178,7 +178,7 @@ const resolveRecordServicesByRecordOrRequestId = (recordServices, value) => {
 };
 
 const buildFormTemplateResponse = (record) => {
-    const applicableForms = Number(record.serviceId) === 1
+    const applicableForms = Number(record.serviceId) !== 1
         ? [
             {
                 serviceId: record.id,
@@ -1065,6 +1065,7 @@ router.get('/form-templates/by-record-service/:recordServiceId', async (req, res
     const db = getConnection();
     const recordServices = getRecordServices(db);
     const resolvedRecords = resolveRecordServicesByRecordOrRequestId(recordServices, req.params.recordServiceId);
+    console.log(resolvedRecords, recordServices);
 
     return res.status(200).json({
         statusCode: 200,
